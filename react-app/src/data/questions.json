@@ -1,0 +1,6030 @@
+[
+  {
+    "id": "cm-0-1",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 1,
+    "page": 1,
+    "prompt": "Công ty môi giới có 5 người nhưng chỉ có Giám đốc có chứng chỉ. Công ty có được kinh doanh không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không, vì phải có ít nhất 2 người."
+      },
+      {
+        "id": "B",
+        "text": "Được, vì điều kiện tối thiểu chỉ cần 01 người có chứng chỉ."
+      },
+      {
+        "id": "C",
+        "text": "Được nhưng phải nộp phạt."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được môi giới nhà dưới 5 tỷ."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-2",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 2,
+    "page": 1,
+    "prompt": "Nguyên tắc pháp lý nào cần tuân thủ khi thực hiện quảng cáo bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ được quảng cáo trên các kênh truyền thông chính thống của nhà nước."
+      },
+      {
+        "id": "B",
+        "text": "Đảm bảo nội dung quảng cáo trung thực, chính xác và không gây nhầm lẫn."
+      },
+      {
+        "id": "C",
+        "text": "Bắt buộc phải có chữ ký của Chủ tịch UBND tỉnh."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được sử dụng ảnh chụp bằng điện thoại cá nhân."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-3",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 3,
+    "page": 1,
+    "prompt": "Tình huống: Nhà môi giới M muốn sử dụng hình ảnh khách hàng đã giao dịch thành công để làm tư liệu marketing. Nhà môi giới M cần làm gì trước tiên?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tự ý lấy ảnh trên Facebook của khách hàng và đăng tải."
+      },
+      {
+        "id": "B",
+        "text": "Xin phép khách hàng một cách rõ ràng bằng văn bản (hoặc hình thức có giá trị tương đương) về việc sử dụng hình ảnh và ý kiến của họ cho mục đích marketing."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ sử dụng hình ảnh che mặt của khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu khách hàng bắt buộc phải cung cấp testimonial."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-4",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 4,
+    "page": 1,
+    "prompt": "Khi thuyết trình giới thiệu bất động sản, vấn đề quan trọng nhất cần trình bày là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giá cả sản phẩm."
+      },
+      {
+        "id": "B",
+        "text": "Đặc điểm nổi bật trong thiết kế."
+      },
+      {
+        "id": "C",
+        "text": "Giá trị và lợi ích của sản phẩm mang lại cho khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả đều sai."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-5",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 5,
+    "page": 1,
+    "prompt": "Trong môi giới BĐS, vấn đề văn hóa phải được các môi giới viên chú trọng tìm hiểu và nắm rõ. Ví dụ, việc sai hẹn có khi chỉ vài phút cũng có thể làm đối tác (đặc biệt là người Mỹ) khó chịu; Người phương Tây thường đi ngay vào mục đích làm việc và có xu hướng nhanh chóng ra quyết định, trong khi người phương Đông thường không đi thẳng vào vấn đề, giải quyết công việc theo cách thoải mái hơn, và thường tránh nói không. Ví dụ này thuộc khía cạnh nào trong văn hóa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yếu tố vật chất (Material elements)."
+      },
+      {
+        "id": "B",
+        "text": "Cách cư xử và phong tục (Manner and customs)."
+      },
+      {
+        "id": "C",
+        "text": "Giá trị và thái độ (Values and Attitudes)."
+      },
+      {
+        "id": "D",
+        "text": "Giáo dục (Education)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-6",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 6,
+    "page": 2,
+    "prompt": "Nhà hướng Tây rất nắng, môi giới nên giới thiệu thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Che giấu thông tin, chỉ nói về view đẹp."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ dẫn khách đi xem nhà vào buổi sáng để tránh nắng."
+      },
+      {
+        "id": "C",
+        "text": "Công khai hướng Tây và đề xuất giải pháp như rèm chống nắng, cây xanh."
+      },
+      {
+        "id": "D",
+        "text": "Nói hướng Tây là phong thủy tốt."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-7",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 7,
+    "page": 2,
+    "prompt": "Một trong các nguyên nhân khiến giá BĐS không phản ánh đúng cung cầu là:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thông tin không hoàn hảo"
+      },
+      {
+        "id": "B",
+        "text": "Tất cả giao dịch đều minh bạch"
+      },
+      {
+        "id": "C",
+        "text": "Nhà nước kiểm soát chặt"
+      },
+      {
+        "id": "D",
+        "text": "Giá đất cố định"
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-8",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 8,
+    "page": 2,
+    "prompt": "Hợp đồng mua bán bất động sản được công chứng có giá trị pháp lý như thế nào so với hợp đồng không công chứng (viết tay)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giá trị pháp lý như nhau."
+      },
+      {
+        "id": "B",
+        "text": "Hợp đồng công chứng có giá trị chứng cứ cao hơn."
+      },
+      {
+        "id": "C",
+        "text": "Hợp đồng viết tay có giá trị hơn vì thể hiện đúng ý chí các bên."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng công chứng mới phải nộp thuế."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-9",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 9,
+    "page": 2,
+    "prompt": "Khi một bất động sản tạo ra dòng tiền thu nhập thụ động âm (ví dụ cho thuê không đủ bù các khoản chi và các khoản khấu hao đầu tư…). Nhằm làm cho nó trở thành một khoản đầu tư hấp dẫn đối với nhà đầu tư, ta nên chứng minh thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sẽ có những giảm trừ thích hợp."
+      },
+      {
+        "id": "B",
+        "text": "Sẽ có một chút trì hoãn nhỏ trong việc bảo hành sửa chữa bất động sản này."
+      },
+      {
+        "id": "C",
+        "text": "Sẽ có một sự giảm giá đáng kể."
+      },
+      {
+        "id": "D",
+        "text": "Sẽ có một sự gia tăng đáng kể trong giá trị tài sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-10",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 10,
+    "page": 2,
+    "prompt": "Tình huống: Hợp đồng mua bán bất động sản có điều khoản \"Bên bán cam kết bất động sản không có bất kỳ tranh chấp nào\". Sau khi mua, bên mua phát hiện có tranh chấp ranh giới từ trước đó. Bên mua có quyền gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không có quyền gì vì đã ký hợp đồng."
+      },
+      {
+        "id": "B",
+        "text": "Có quyền yêu cầu bên bán giải quyết dứt điểm tranh chấp hoặc yêu cầu hủy hợp đồng và bồi thường thiệt hại do bên bán đã vi phạm cam kết."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có quyền yêu cầu giảm giá bán."
+      },
+      {
+        "id": "D",
+        "text": "Phải tự mình giải quyết tranh chấp với hàng xóm."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-11",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 11,
+    "page": 2,
+    "prompt": "Việc quy định doanh nghiệp môi giới phải có \"quy chế hoạt động dịch vụ\" nhằm mục đích gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ để làm thủ tục đăng ký kinh doanh."
+      },
+      {
+        "id": "B",
+        "text": "Thiết lập các quy tắc, quy trình làm việc nội bộ rõ ràng, đảm bảo hoạt động chuyên nghiệp, tuân thủ pháp luật và quản lý rủi ro hiệu quả."
+      },
+      {
+        "id": "C",
+        "text": "Hạn chế quyền tự do kinh doanh của doanh nghiệp."
+      },
+      {
+        "id": "D",
+        "text": "Quy định mức lương tối thiểu cho nhân viên."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-12",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 12,
+    "page": 3,
+    "prompt": "Trường hợp nào thì việc sử dụng \"Hợp đồng Ủy quyền\" để mua bán bất động sản là hợp lệ và ít rủi ro nhất?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Người ủy quyền đang ở nước ngoài không thể về ký bán."
+      },
+      {
+        "id": "B",
+        "text": "Người ủy quyền và người được ủy quyền là vợ chồng/cha mẹ con cái ruột, nội dung ủy quyền rõ ràng, hợp pháp và còn hiệu lực."
+      },
+      {
+        "id": "C",
+        "text": "Người mua muốn nhờ người khác đứng tên hộ."
+      },
+      {
+        "id": "D",
+        "text": "Hợp đồng ủy quyền được lập bằng giấy viết tay."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-13",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 13,
+    "page": 3,
+    "prompt": "Chứng chỉ hành nghề môi giới bất động sản có giá trị sử dụng trong bao lâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vô thời hạn, không cần gia hạn."
+      },
+      {
+        "id": "B",
+        "text": "03 năm kể từ ngày cấp, cần thi lại để cấp mới."
+      },
+      {
+        "id": "C",
+        "text": "05 năm kể từ ngày cấp."
+      },
+      {
+        "id": "D",
+        "text": "07 năm kể từ ngày cấp."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-14",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 14,
+    "page": 3,
+    "prompt": "Kỹ năng lắng nghe tích cực (Active Listening) trong giao tiếp có mục đích gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Để tìm ra điểm yếu và sơ hở của khách hàng để đàm phán dễ hơn."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ để khách hàng cảm thấy được tôn trọng."
+      },
+      {
+        "id": "C",
+        "text": "Để hiểu rõ nhu cầu thực sự, các mối quan tâm và động cơ của khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Để xác định khách hàng có tiền sử nợ xấu hay không."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-15",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 15,
+    "page": 3,
+    "prompt": "Việc Luật kinh doanh bất động sản Việt Nam công nhận và quy định về nghề môi giới bất động sản có ý nghĩa gì đối với sự phát triển của nghề?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hạn chế sự phát triển của nghề."
+      },
+      {
+        "id": "B",
+        "text": "Tạo cơ sở pháp lý chính thức, khẳng định vai trò xã hội, thúc đẩy sự chuyên nghiệp hóa và tạo điều kiện cho nghề phát triển một cách bài bản, có quản lý."
+      },
+      {
+        "id": "C",
+        "text": "Khiến việc hành nghề trở nên khó khăn hơn không cần thiết."
+      },
+      {
+        "id": "D",
+        "text": "Không có ý nghĩa gì đáng kể."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-16",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 16,
+    "page": 3,
+    "prompt": "Khi môi giới bất động sản đang bị thế chấp tại ngân hàng, nhà môi giới cần làm gì để đảm bảo giao dịch hợp pháp?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ cần thông báo bằng miệng cho bên mua về việc đang thế chấp."
+      },
+      {
+        "id": "B",
+        "text": "Ký hợp đồng mua bán và cam kết sẽ giải chấp sau."
+      },
+      {
+        "id": "C",
+        "text": "Yêu cầu bên bán phải tất toán khoản nợ trước khi ký hợp đồng đặt cọc."
+      },
+      {
+        "id": "D",
+        "text": "Bắt buộc phải có văn bản đồng ý của bên nhận thế chấp (ngân hàng) về việc bán bất động sản đó."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-17",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 17,
+    "page": 3,
+    "prompt": "Nhà Môi giới Bất động sản được nhận thù lao?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Từ một bên trong hợp đồng."
+      },
+      {
+        "id": "B",
+        "text": "Từ hai bên trở lên."
+      },
+      {
+        "id": "C",
+        "text": "Không phụ thuộc vào việc giao dịch có thực hiện thành công hay không"
+      },
+      {
+        "id": "D",
+        "text": "Cả A, B,C đều đúng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-18",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 18,
+    "page": 4,
+    "prompt": "Nhà môi giới có nên từ chối làm việc với một khách hàng có yêu cầu phi thực tế hoặc không rõ ràng sau khi đã cố gắng tư vấn không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không bao giờ, phải cố gắng đáp ứng mọi yêu cầu."
+      },
+      {
+        "id": "B",
+        "text": "Nên từ chối một cách lịch sự và chuyên nghiệp."
+      },
+      {
+        "id": "C",
+        "text": "Nên tiếp tục làm việc nhưng không cần nỗ lực nhiều."
+      },
+      {
+        "id": "D",
+        "text": "Nên báo cáo khách hàng này với hiệp hội bất động sản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-19",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 19,
+    "page": 4,
+    "prompt": "Rủi ro lớn nhất khi mua bán bất động sản thông qua hợp đồng ủy quyền là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phí ủy quyền cao."
+      },
+      {
+        "id": "B",
+        "text": "Thời gian làm thủ tục lâu hơn."
+      },
+      {
+        "id": "C",
+        "text": "Hợp đồng ủy quyền có thể không hợp lệ."
+      },
+      {
+        "id": "D",
+        "text": "Khó vay vốn ngân hàng hơn."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-20",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 20,
+    "page": 4,
+    "prompt": "Công nghệ thực tế ảo (VR) được ứng dụng trong môi giới nhằm mục đích gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giúp khách hàng xem nhà từ xa, tiết kiệm thời gian và chi phí di chuyển."
+      },
+      {
+        "id": "B",
+        "text": "Bắt buộc phải sử dụng theo quy định của Bộ Xây dựng."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ dùng để thiết kế các bài quảng cáo trên Facebook."
+      },
+      {
+        "id": "D",
+        "text": "Giúp nhà môi giới giấu đi các nhược điểm của bất động sản."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-21",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 21,
+    "page": 4,
+    "prompt": "Sử dụng kỹ năng trình bày FAB (Features, Advantages, Benefits) trong trường hợp nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thắc mắc về giá cả"
+      },
+      {
+        "id": "B",
+        "text": "Thắc mắc về chất lượng"
+      },
+      {
+        "id": "C",
+        "text": "Thắc mắc về pháp lý"
+      },
+      {
+        "id": "D",
+        "text": "Tất cả các trường hợp trên"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-22",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 22,
+    "page": 4,
+    "prompt": "Tình huống: Công ty môi giới bất động sản M chỉ có một người duy nhất sở hữu Chứng chỉ hành nghề môi giới bất động sản. Nếu người này nghỉ việc, công ty M có còn đủ điều kiện kinh doanh dịch vụ môi giới bất động sản theo Luật kinh doanh bất động sản 2023 không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vẫn đủ điều kiện bình thường."
+      },
+      {
+        "id": "B",
+        "text": "Không còn đủ điều kiện và phải bổ sung người có chứng chỉ khác hoặc tạm dừng hoạt động."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần giám đốc công ty có chứng chỉ là đủ."
+      },
+      {
+        "id": "D",
+        "text": "Vẫn đủ điều kiện nếu công ty có doanh thu cao."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-23",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 23,
+    "page": 4,
+    "prompt": "Người đại diện cho người mua BĐS được thuê để làm gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thể hiện ý kiến và mối quan tâm của người mua thông qua các giao dịch."
+      },
+      {
+        "id": "B",
+        "text": "Trưng bày và giới thiệu tài sản."
+      },
+      {
+        "id": "C",
+        "text": "Đàm phán trên cương vị của người mua."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả lựa chọn đều đúng."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-24",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 24,
+    "page": 5,
+    "prompt": "Hệ thống quản lý thông tin khách hàng (CRM) đóng vai trò gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giúp theo dõi và kiểm soát giờ làm việc của từng nhà môi giới."
+      },
+      {
+        "id": "B",
+        "text": "Cung cấp thông tin tài chính cá nhân của khách hàng."
+      },
+      {
+        "id": "C",
+        "text": "Hỗ trợ thu thập, phân loại, lưu trữ và theo dõi quá trình giao dịch với khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ dùng để ghi nhận các giao dịch đã thất bại."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-25",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 25,
+    "page": 5,
+    "prompt": "Kỹ năng vượt qua thắc mắc của khách hàng:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ghi chép thông tin, phân loại ý kiến khách hàng, đồng cảm khi trả lời khách hàng, lôi kéo sự đồng ý của khách hàng."
+      },
+      {
+        "id": "B",
+        "text": "Lắng nghe cẩn thận, bình tĩnh, không ngắt lời."
+      },
+      {
+        "id": "C",
+        "text": "Lặp lại câu phản đối dưới dạng câu hỏi, nói chuyện ôn hòa, đồng cảm khi trả lời khách hàng, lôi kéo sự đồng ý của khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Đáp án B và C."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-26",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 26,
+    "page": 5,
+    "prompt": "Trong một giao dịch, cả bên mua và bên bán cùng muốn thuê bạn làm đại diện. Bạn nên xử lý thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhận cả hai để tăng thu nhập"
+      },
+      {
+        "id": "B",
+        "text": "Nhận đại diện cả hai bên nhưng không nói cho họ biết"
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được đại diện một bên và phải thông báo rõ ràng"
+      },
+      {
+        "id": "D",
+        "text": "Nhận đại diện bên trả hoa hồng cao hơn"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-27",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 27,
+    "page": 5,
+    "prompt": "Khách hàng mua nhà đang thế chấp, ngân hàng đã đồng ý cho bán. Bước tiếp theo quan trọng nhất là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ cần ngân hàng xác nhận số dư nợ."
+      },
+      {
+        "id": "B",
+        "text": "Yêu cầu ngân hàng cung cấp Hợp đồng tín dụng ban đầu."
+      },
+      {
+        "id": "C",
+        "text": "Các bên cùng đến ngân hàng thanh toán nợ, ký giải chấp và rút sổ đỏ gốc."
+      },
+      {
+        "id": "D",
+        "text": "Ký hợp đồng chuyển nhượng trước rồi mới trả nợ sau."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-28",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 28,
+    "page": 5,
+    "prompt": "Khi gặp một khách hàng có kiến thức sâu về bất động sản và thị trường, nhà môi giới nên thể hiện vai trò của mình như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tranh luận để chứng tỏ mình giỏi hơn."
+      },
+      {
+        "id": "B",
+        "text": "Thể hiện sự tôn trọng kiến thức của khách hàng, tập trung vào việc cung cấp giá trị gia tăng khác"
+      },
+      {
+        "id": "C",
+        "text": "Lảng tránh các câu hỏi chuyên sâu"
+      },
+      {
+        "id": "D",
+        "text": "Chỉ đóng vai trò người dẫn đi xem nhà."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-29",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 29,
+    "page": 5,
+    "prompt": "Việc một nhà môi giới bất động sản chủ động tư vấn cho khách hàng về các rủi ro tiềm ẩn của một bất động sản (thay vì chỉ nói về ưu điểm) thể hiện điều gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sự thiếu tự tin vào khả năng bán hàng."
+      },
+      {
+        "id": "B",
+        "text": "Tính chuyên nghiệp, trung thực và đặt lợi ích lâu dài của khách hàng lên trên việc chốt giao dịch bằng mọi giá."
+      },
+      {
+        "id": "C",
+        "text": "Sự thiếu hiểu biết về marketing."
+      },
+      {
+        "id": "D",
+        "text": "Mong muốn làm nản lòng khách hàng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-30",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 30,
+    "page": 6,
+    "prompt": "Tiêu chí nào sau đây thuộc lập trường đàm phán theo kiểu nguyên tắc?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đánh lạc hướng về giới hạn cuối cùng."
+      },
+      {
+        "id": "B",
+        "text": "Lùi bước trước nguyên tắc chứ không lùi bước trước áp lực."
+      },
+      {
+        "id": "C",
+        "text": "Đi tìm một câu trả lời mà đối tác chấp nhận."
+      },
+      {
+        "id": "D",
+        "text": "Gây áp lực dựa trên nguyên tắc."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-31",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 31,
+    "page": 6,
+    "prompt": "Môi giới lô đất nền chưa hoàn thiện hạ tầng. Cần tư vấn khách kiểm tra giấy tờ gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giấy phép kinh doanh môi giới của bạn."
+      },
+      {
+        "id": "B",
+        "text": "Báo cáo tài chính của công ty bán đất."
+      },
+      {
+        "id": "C",
+        "text": "Văn bản chấp thuận của cơ quan nhà nước cho phép chuyển nhượng đất đã đầu tư hạ tầng."
+      },
+      {
+        "id": "D",
+        "text": "Hóa đơn nộp thuế của bên bán."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-32",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 32,
+    "page": 6,
+    "prompt": "Ông X bán nhà đứng tên riêng nhưng ông đã kết hôn. Môi giới cần yêu cầu gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ cần ông X cam kết tài sản riêng."
+      },
+      {
+        "id": "B",
+        "text": "Bỏ qua vì tên trên sổ đỏ chỉ có mình ông X."
+      },
+      {
+        "id": "C",
+        "text": "Yêu cầu văn bản chứng minh tài sản riêng hoặc văn bản đồng ý bán của vợ ông X."
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu ông X ly hôn để giao dịch được thực hiện."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-33",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 33,
+    "page": 6,
+    "prompt": "Nếu Hợp đồng dịch vụ môi giới không ghi rõ mức thù lao, thù lao được tính thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bằng 1% giá trị giao dịch thành công."
+      },
+      {
+        "id": "B",
+        "text": "Nhà môi giới không được nhận bất kỳ khoản thù lao nào."
+      },
+      {
+        "id": "C",
+        "text": "Hợp đồng môi giới đó bị vô hiệu do thiếu điều khoản quan trọng."
+      },
+      {
+        "id": "D",
+        "text": "Các bên thỏa thuận lại, hoặc áp dụng theo giá dịch vụ thông thường trên thị trường."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-34",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 34,
+    "page": 6,
+    "prompt": "Phát biểu nào sau đây không đúng khi nói về tố chất cần có của một nhà môi giới bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhà môi giới cần có khả năng giao tiếp tốt, tạo dựng niềm tin với khách hàng."
+      },
+      {
+        "id": "B",
+        "text": "Nhà môi giới cần hiểu biết pháp luật, thị trường và sản phẩm bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Nhà môi giới cần trung thực, khách quan, đặt lợi ích khách hàng lên hàng đầu."
+      },
+      {
+        "id": "D",
+        "text": "Nhà môi giới cần thường xuyên che giấu thông tin để đạt được thỏa thuận nhanh chóng."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-35",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 35,
+    "page": 6,
+    "prompt": "Một trong những nghĩa vụ chính của Sàn giao dịch bất động sản đối với các giao dịch được thực hiện tại Sàn là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có trách nhiệm hoàn toàn về tính pháp lý và quy hoạch của bất động sản được giao dịch."
+      },
+      {
+        "id": "B",
+        "text": "Bảo lãnh tài chính cho các bên tham gia giao dịch bất động sản để đảm bảo an toàn."
+      },
+      {
+        "id": "C",
+        "text": "Chịu trách nhiệm về thông tin và hỗ trợ các bên trong việc ký kết hợp đồng, hoàn tất thủ tục giao dịch."
+      },
+      {
+        "id": "D",
+        "text": "Bắt buộc các bên phải sử dụng dịch vụ định giá của Sàn trước khi thực hiện giao dịch."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-36",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 36,
+    "page": 7,
+    "prompt": "Khách hàng yêu cầu bạn giảm hoa hồng xuống mức thấp hơn quy định của công ty. Bạn xử lý sao?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đồng ý vì muốn chốt giao dịch"
+      },
+      {
+        "id": "B",
+        "text": "Giảm mà không báo công ty"
+      },
+      {
+        "id": "C",
+        "text": "Giải thích mức phí do công ty quy định và không được tự ý thay đổi"
+      },
+      {
+        "id": "D",
+        "text": "Thu thêm phí ngoài hợp đồng để bù lại"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-37",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 37,
+    "page": 7,
+    "prompt": "Yếu tố nào sau đây KHÔNG ảnh hưởng trực tiếp đến mức phí hoa hồng môi giới bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "không phụ thuộc vào giá của giao dịch được môi giới bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Tỷ lệ hoa hồng thỏa thuận trong hợp đồng dịch vụ."
+      },
+      {
+        "id": "C",
+        "text": "Tình trạng pháp lý của nhà môi giới bất động sản (có chứng chỉ hay không)."
+      },
+      {
+        "id": "D",
+        "text": "Mức độ phức tạp của giao dịch và công sức của nhà môi giới bất động sản."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-38",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 38,
+    "page": 7,
+    "prompt": "Khi thực hiện môi giới, nhà môi giới có được phép cùng lúc làm trung gian cho cả hai bên (bên bán và bên mua) trong cùng một giao dịch không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không được phép vì có thể dẫn đến xung đột lợi ích."
+      },
+      {
+        "id": "B",
+        "text": "Tùy thuộc vào loại hình bất động sản và giá trị giao dịch."
+      },
+      {
+        "id": "C",
+        "text": "Luôn được phép nếu có hợp đồng môi giới với cả hai bên."
+      },
+      {
+        "id": "D",
+        "text": "Được phép nếu đã thông báo và được sự đồng ý của cả hai bên."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-39",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 39,
+    "page": 7,
+    "prompt": "Hồ sơ thương vụ môi giới (Deal File) được lập ra nhằm mục đích gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Để nộp cho cơ quan thuế khi giao dịch hoàn thành."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ để nhà môi giới xem xét nội bộ, không có giá trị pháp lý."
+      },
+      {
+        "id": "C",
+        "text": "Để lưu trữ, quản lý thông tin, và làm cơ sở giải quyết tranh chấp (nếu có)."
+      },
+      {
+        "id": "D",
+        "text": "Để gửi cho đối thủ cạnh tranh nhằm mục đích học hỏi kinh nghiệm."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-40",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 40,
+    "page": 7,
+    "prompt": "Bạn đang môi giới cho người bán. Một khách khác là bạn thân đề nghị bạn “giữ kín thông tin có bất lợi” để dễ chốt. Bạn phải làm gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đồng ý vì tạo lợi thế cho người mua"
+      },
+      {
+        "id": "B",
+        "text": "Từ chối và cung cấp đầy đủ thông tin theo đúng quy tắc nghề nghiệp"
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nói một phần"
+      },
+      {
+        "id": "D",
+        "text": "Tùy xem giá trị giao dịch lớn hay nhỏ"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-41",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 41,
+    "page": 7,
+    "prompt": "Dịch vụ môi giới bất động sản là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Là việc tìm kiếm đối tác để thực hiện giao dịch bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Là việc đại diện cho một bên để đàm phán hợp đồng mua bán bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Là dịch vụ cung cấp thông tin và tư vấn về pháp lý bất động sản."
+      },
+      {
+        "id": "D",
+        "text": "Là bên trung gian và nhận thù lao từ hoạt động môi giới mua bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-42",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 42,
+    "page": 8,
+    "prompt": "Sau khi ký kết hợp đồng dịch vụ môi giới, bước đầu tiên nhà môi giới cần làm là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tiến hành Marketing đại trà trên mọi kênh."
+      },
+      {
+        "id": "B",
+        "text": "Chờ đợi bên mua chủ động liên hệ tìm kiếm."
+      },
+      {
+        "id": "C",
+        "text": "Thu thập, thẩm định thông tin về bất động sản và đối tác."
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu khách hàng đặt cọc một khoản phí dịch vụ."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-43",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 43,
+    "page": 8,
+    "prompt": "Tại sao nói hoạt động môi giới bất động sản góp phần \"thúc đẩy đổi mới chính sách quản lý bất động sản\"?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vì nhà môi giới bất động sản trực tiếp tham gia soạn thảo luật."
+      },
+      {
+        "id": "B",
+        "text": "Vì các vướng mắc, bất cập phát sinh trong thực tế hoạt động môi giới là nguồn thông tin phản hồi quan trọng để cơ quan quản lý xem xét, điều chỉnh chính sách cho phù hợp hơn."
+      },
+      {
+        "id": "C",
+        "text": "Vì nhà môi giới bất động sản luôn yêu cầu thay đổi chính sách."
+      },
+      {
+        "id": "D",
+        "text": "Vì hoạt động môi giới làm giảm vai trò của cơ quan quản lý."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-44",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 44,
+    "page": 8,
+    "prompt": "Một nhà môi giới và khách hàng của anh ta đang đàm phán thỏa thuận mua một bất động sản tại Hà Nội. Họ đã thực hiện xong công tác tiếp xúc, thăm dò đối tác, lập các phương án thỏa thuận mua bán, xác định chiến lược đàm phán với người bán bất động sản này. Họ thậm chí đã đàm phán thử với đối tác nhưng chưa mang lại kết quả. Bước nào họ nên thực hiện tiếp theo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rút kinh nghiệm và tiến hành các bước tiếp xúc, thăm dò đối tác lại."
+      },
+      {
+        "id": "B",
+        "text": "Tiến hành đàm phán hợp nhất: Thảo luận về các mục tiêu chung và các mục tiêu xung đột, nhượng bộ và nhân nhượng nhằm phá vỡ tình huống căng thẳng."
+      },
+      {
+        "id": "C",
+        "text": "Đàm phán phân bổ: Trình bày quan điểm yêu cầu của mình và lắng nghe đối tác trình bày quan điểm của họ."
+      },
+      {
+        "id": "D",
+        "text": "Chuẩn bị các hợp đồng đã soạn thảo sẵn để đưa ra đàm phán lại."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-45",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 45,
+    "page": 8,
+    "prompt": "Vì sao hai bên cung - cầu bất động sản cần có môi giới:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vì hoạt động môi giới sẽ làm lành mạnh hóa, minh bạch hoạt động và giúp thị trường phát triển."
+      },
+      {
+        "id": "B",
+        "text": "Vì hoạt động môi giới sẽ tìm ra hướng giải quyết tối ưu cho khách hàng."
+      },
+      {
+        "id": "C",
+        "text": "Vì bất động sản có quyền năng phức tạp và thị tường bất động sản là thị trường không hoàn hảo."
+      },
+      {
+        "id": "D",
+        "text": "Vì môi giới là một trong ba pháp nhân tham gia vào thị trường bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-46",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 46,
+    "page": 8,
+    "prompt": "Phương pháp thu thập thông tin về cầu bất động sản chủ động không bao gồm hoạt động nào sau đây:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gửi thư trực tiếp tới khách hàng tiềm năng."
+      },
+      {
+        "id": "B",
+        "text": "Tiếp cận tận nơi: đón hoặc gọi điện."
+      },
+      {
+        "id": "C",
+        "text": "Tìm kiếm qua các phương tiện thông tin đại chúng ."
+      },
+      {
+        "id": "D",
+        "text": "Đón tại văn phòng môi giới bất động sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-47",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 47,
+    "page": 8,
+    "prompt": "Việc nhà môi giới bất động sản từ chối tham gia vào một giao dịch có dấu hiệu rửa tiền, mặc dù có thể mang lại hoa hồng rất lớn, thể hiện việc tuân thủ nguyên tắc nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nguyên tắc lấy lợi ích khách hàng làm định hướng."
+      },
+      {
+        "id": "B",
+        "text": "Nguyên tắc tuân thủ pháp luật và đạo đức nghề nghiệp."
+      },
+      {
+        "id": "C",
+        "text": "Nguyên tắc công khai, minh bạch."
+      },
+      {
+        "id": "D",
+        "text": "Nguyên tắc hoạt động dựa trên chuyên môn."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-48",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 48,
+    "page": 9,
+    "prompt": "Khách hàng quan tâm điều gì nhất trong loại hình BĐS là chung cư?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hạ tầng kỹ thuật, giá cả, diện tích sử dụng."
+      },
+      {
+        "id": "B",
+        "text": "Giá cả, diện tích sử dụng, vị trí giao thông."
+      },
+      {
+        "id": "C",
+        "text": "Môi trường sống, chi phí sử dụng, diện tích khu vực."
+      },
+      {
+        "id": "D",
+        "text": "Chất lượng, mẫu mã, diện tích sử dụng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-49",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 49,
+    "page": 9,
+    "prompt": "Khi thị trường bất động sản có dấu hiệu trầm lắng, người bán không muốn giảm giá, nhà môi giới nên tập trung vào chiến lược nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tạm dừng mọi hoạt động marketing."
+      },
+      {
+        "id": "B",
+        "text": "Chuyển sang chỉ làm việc với người mua."
+      },
+      {
+        "id": "C",
+        "text": "Tăng cường marketing sáng tạo, nhấn mạnh các giá trị độc đáo của bất động sản"
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người bán phải giảm giá bằng mọi cách."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-0-50",
+    "set": "cm-0",
+    "subject": "Chuyên môn",
+    "number": 50,
+    "page": 9,
+    "prompt": "Nhà môi giới có được phép định đoạt (mua hoặc bán) bất động sản được môi giới hay không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không bao giờ được phép để đảm bảo tính khách quan."
+      },
+      {
+        "id": "B",
+        "text": "Được phép nếu là người duy nhất nắm giữ thông tin bất động sản đó."
+      },
+      {
+        "id": "C",
+        "text": "Được phép nếu có hợp đồng ủy quyền của chủ sở hữu bất động sản."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được phép nếu giá trị bất động sản dưới 1 tỷ đồng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-51",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 2,
+    "page": 10,
+    "prompt": "Chủ thể nào được phép cung cấp dịch vụ môi giới bất động sản tại Việt Nam?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Tổ chức có đăng ký kinh doanh ngành nghề môi giới và cá nhân có chứng chỉ môi giới."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-52",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 3,
+    "page": 10,
+    "prompt": "Thù lao môi giới bất động sản được xác định như thế nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Do các bên thỏa thuận trong hợp đồng dịch vụ môi giới bất động sản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-53",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 4,
+    "page": 10,
+    "prompt": "Dịch vụ môi giới bất động sản phải được thực hiện thông qua hình thức nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hợp đồng dịch vụ môi giới bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-54",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 5,
+    "page": 10,
+    "prompt": "Vai trò quan trọng nhất của nhà môi giới đối với thị trường bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Là cầu nối, làm tăng tính thanh khoản và hiệu quả của thị trường."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-55",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 8,
+    "page": 10,
+    "prompt": "Điều kiện kinh doanh dịch vụ môi giới bất động sản của tổ chức tại Việt Nam là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Phải thành lập doanh nghiệp, có tối thiểu 01 người có chứng chỉ môi giới bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-56",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 10,
+    "page": 10,
+    "prompt": "Ở nhiều nước phát triển (ví dụ: Mỹ, Canada), nhà môi giới cá nhân (Agent) thường quản lý theo mô hình nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Phải đăng ký với một sàn giao dịch hoặc công ty môi giới (brokerage firm) để được hoạt động."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-57",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 11,
+    "page": 10,
+    "prompt": "Theo Luật Kinh doanh bất động sản 2023, Sàn giao dịch bất động sản được định nghĩa là gì?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Là nơi diễn ra các giao dịch về mua bán, chuyển nhượng, cho thuê, cho thuê lại, cho thuê mua bất động sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-58",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 12,
+    "page": 10,
+    "prompt": "Điều kiện về nhân sự bắt buộc để một tổ chức được thành lập và hoạt động Sàn giao dịch bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Người quản lý, điều hành sàn giao dịch bất động sản phải hoàn thành khóa đào tạo về quản lý, điều hành sàn giao dịch bất động sản và được cơ sở đào tạo cấp giấy chứng nhận hoàn thành khóa học quản lý, điều hành sàn giao dịch bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-59",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 14,
+    "page": 10,
+    "prompt": "Nguồn thông tin nào về cung bất động sản được coi là có độ tin cậy pháp lý cao nhất?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Thông tin trực tiếp từ giấy chứng nhận quyền sử dụng đất, hồ sơ pháp lý dự án, hoặc cơ quan nhà nước có thẩm quyền."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-60",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 15,
+    "page": 10,
+    "prompt": "Trong một giao dịch chuyển nhượng bất động sản của cá nhân đã kết hôn, ai là người được xác định là đối tượng tham gia ký kết hợp đồng bán?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Người đứng tên trên Giấy chứng nhận và người còn lại trong quan hệ vợ chồng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-61",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 16,
+    "page": 10,
+    "prompt": "Khi môi giới giao dịch bất động sản thuộc sở hữu của doanh nghiệp, ai có thẩm quyền ký hợp đồng chuyển nhượng?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giám đốc, Tổng Giám đốc hoặc người được ủy quyền hợp pháp theo Điều lệ công ty."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-62",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 18,
+    "page": 11,
+    "prompt": "Khi lập hồ sơ cho bất động sản hình thành trong tương lai, tài liệu pháp lý quan trọng nhất cần thu thập là gì?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Văn bản chấp thuận cho phép bán, cho thuê mua của cơ quan nhà nước có thẩm quyền."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-63",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 20,
+    "page": 11,
+    "prompt": "Việc kiểm tra thông tin về thế chấp bất động sản được thực hiện ở đâu?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Tại Văn phòng Đăng ký đất đai hoặc cơ quan đăng ký giao dịch bảo đảm có thẩm quyền."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-64",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 22,
+    "page": 11,
+    "prompt": "Bước nào sau đây thường là bước cuối cùng trong một thương vụ môi giới thành công?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hoàn thành thủ tục công chứng, đăng ký sang tên và chi trả thù lao môi giới."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-65",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 23,
+    "page": 11,
+    "prompt": "Mục tiêu chính của Marketing bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Thu hút và xác định đúng khách hàng mục tiêu để tối ưu hóa hiệu quả giao dịch."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-66",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 26,
+    "page": 11,
+    "prompt": "Trong đàm phán giá bất động sản, nhà môi giới nên giữ vai trò như thế nào?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Người trung lập, đưa ra các luận cứ khách quan và đề xuất giải pháp hài hòa."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-67",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 27,
+    "page": 11,
+    "prompt": "Khi niêm yết thông tin bất động sản tại Sàn giao dịch, cần tuân thủ nguyên tắc nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Niêm yết công khai, đầy đủ và dễ tiếp cận tại nơi kinh doanh của Sàn."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-68",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 29,
+    "page": 11,
+    "prompt": "Yếu tố pháp lý nào quan trọng nhất cần kiểm tra khi soạn thảo Hợp đồng dịch vụ môi giới?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Xác định chính xác năng lực hành vi dân sự và thẩm quyền ký kết của các bên."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-69",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 31,
+    "page": 11,
+    "prompt": "Rủi ro pháp lý nghiêm trọng nhất khi môi giới một bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Bất động sản không đủ điều kiện kinh doanh hoặc đang có tranh chấp."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-70",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 33,
+    "page": 11,
+    "prompt": "Chị A thấy một tin đăng bán nhà giá rẻ hơn 15% trên trang web lạ. Chị nên làm gì đầu tiên?",
+    "options": [
+      {
+        "id": "C",
+        "text": "So sánh và xác minh tính chính xác, pháp lý của thông tin tại cơ quan quản lý."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-71",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 34,
+    "page": 11,
+    "prompt": "Khách hàng muốn mua căn hộ 3 tỷ ở trung tâm nhưng thực tế thị trường không có mức giá đó. Môi giới nên làm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Tư vấn khách hàng thay đổi nhu cầu sang căn ít phòng ngủ hơn hoặc ở xa hơn."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-72",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 36,
+    "page": 11,
+    "prompt": "Kế toán trưởng Công ty Y ký hợp đồng môi giới với bạn. Bạn cần kiểm tra giấy tờ gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giấy ủy quyền hợp pháp của người đại diện theo pháp luật hoặc Nghị quyết của Hội đồng quản trị."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-73",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 37,
+    "page": 11,
+    "prompt": "Môi giới phát hiện diện tích trên sổ đỏ và thực tế khác nhau. Nên xử lý thế nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Ghi nhận cả hai và tư vấn khách hàng đo đạc, làm rõ pháp lý trước khi ký hợp đồng chính thức."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-74",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 39,
+    "page": 12,
+    "prompt": "Ông A nói đã trả hết nợ ngân hàng và đang xóa thế chấp. Bạn cần xác minh bằng cách nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Yêu cầu văn bản xác nhận xóa đăng ký thế chấp của Văn phòng Đăng ký đất đai."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-75",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 40,
+    "page": 12,
+    "prompt": "Hợp đồng môi giới sắp hết hạn, khách quay lại muốn mua. Để bảo vệ quyền lợi, môi giới nên làm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Hỗ trợ các bên ký biên bản ghi nhớ hoặc đặt cọc có sự xác nhận của môi giới trước khi hợp đồng cũ hết hạn."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-76",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 41,
+    "page": 12,
+    "prompt": "Sau khi ký hợp đồng, bên mua muốn chậm thanh toán 1 tháng. Môi giới nên làm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Lập Phụ lục hợp đồng hoặc văn bản thỏa thuận bổ sung có công chứng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-77",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 42,
+    "page": 12,
+    "prompt": "Môi giới dùng hình ảnh 3D có bể bơi nhưng thực tế dự án không có. Hành vi này vi phạm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Nguyên tắc trung thực, chính xác trong quảng cáo."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-78",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 43,
+    "page": 12,
+    "prompt": "Bên bán đột ngột đòi tăng 200 triệu lúc đàm phán cuối. Môi giới xử lý thế nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giữ thái độ trung lập, tìm hiểu lý do và phân tích lợi ích/rủi ro cho cả hai."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-79",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 44,
+    "page": 12,
+    "prompt": "Môi giới liên tục ngắt lời khách để khoe thành tích. Vi phạm kỹ năng gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Kỹ năng lắng nghe tích cực, làm khách cảm thấy không được tôn trọng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-80",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 46,
+    "page": 12,
+    "prompt": "Sàn giao dịch niêm yết lô đất đang tranh chấp ranh giới. Có vi phạm không?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Có, vì Sàn có nghĩa vụ cung cấp thông tin trung thực và chịu trách nhiệm về tính chính xác của thông tin niêm yết."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-81",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 48,
+    "page": 12,
+    "prompt": "Ông K quản lý Sàn giao dịch nhưng chưa có giấy chứng nhận hoàn thành khóa học quản lý, điều hành sàn giao dịch bất động sản Ông K nên làm gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Bổ nhiệm người khác có giấy chứng nhận hoàn thành khóa học quản lý, điều hành sàn giao dịch bất động sản hoặc tham gia khóa đào tạo về quản lý, điều hành sàn giao dịch bất động sản theo quy định."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-82",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 50,
+    "page": 12,
+    "prompt": "Môi giới đăng số điện thoại khách cũ lên mạng để khoe thành công. Vi phạm nguyên tắc gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Bảo mật thông tin khách hàng và đạo đức nghề nghiệp."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-83",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 51,
+    "page": 12,
+    "prompt": "Bản chất của hoạt động môi giới BĐS là?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Là một ngành nghề, kinh doanh dịch vụ, hoạt động nhằm thu lợi."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-84",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 52,
+    "page": 12,
+    "prompt": "Môi giới bất động sản phân tích theo quy định của Luật Kinh doanh bất động sản hiện hành là?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Việc làm trung gian giúp cho cho các bên trong mua bán, chuyển nhượng, cho thuê, cho thuê lại, cho thuê mua bất động sản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-85",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 53,
+    "page": 13,
+    "prompt": "Nghề môi giới bất động sản nếu phân tích theo quan điểm kinh tế thị trường là gì?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Kết nối nhu cầu bên mua với nhu cầu bên bán bất động sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-86",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 56,
+    "page": 13,
+    "prompt": "Một khách hàng nhờ bạn môi giới bán căn nhà. Khi kiểm tra hồ sơ, bạn phát hiện giấy tờ pháp lý chưa đầy đủ (thiếu bản vẽ hoàn công). Khách hàng yêu cầu bạn “cứ đăng bán trước, có khách thì bổ sung sau”. Nhà môi giới cần làm gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giải thích và yêu cầu khách hàng bổ sung hồ sơ pháp lý trước khi niêm yết"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-87",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 58,
+    "page": 13,
+    "prompt": "Bạn biết thông tin khu vực sắp có quy hoạch mở đường nhưng thông tin chưa được công bố chính thức. Khách hàng hỏi: “Có quy hoạch gì không?”. Bạn phải làm gì?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Chỉ cung cấp thông tin chính thống và cảnh báo khách về rủi ro khi thông tin chưa xác thực"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-88",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 60,
+    "page": 13,
+    "prompt": "Một đồng nghiệp cung cấp cho bạn thông tin sản phẩm họ đang niêm yết. Bạn dùng thông tin này để tiếp cận chủ nhà trực tiếp mà không thông qua đồng nghiệp. Hành vi này là:",
+    "options": [
+      {
+        "id": "C",
+        "text": "Sai vì vi phạm đạo đức và cạnh tranh không lành mạnh"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-89",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 61,
+    "page": 13,
+    "prompt": "Một khách mua muốn bạn nâng giá BĐS lên 200 triệu để họ vay được nhiều hơn từ ngân hàng. Bạn nên làm gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Từ chối vì hành vi gian lận và vi phạm pháp luật"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-90",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 63,
+    "page": 13,
+    "prompt": "Bạn phát hiện người bán muốn cố tình giấu việc căn nhà đang trong diện tranh chấp. Bạn nên làm gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Yêu cầu người bán giải quyết tranh chấp trước, hoặc từ chối nhận sản phẩm"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-91",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 64,
+    "page": 13,
+    "prompt": "Điều kiện để xuất hiện hoạt động môi giới bất động sản",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xuất hiện quan hệ giữa các bên (bên cung và bên cầu về bất động sản hoặc chung cư)."
+      },
+      {
+        "id": "B",
+        "text": "Các bên không thể giải quyết được công việc của mình hay giải quyết không hiệu quả."
+      },
+      {
+        "id": "C",
+        "text": "Tồn tại người thứ ba là nhà môi giới bất động sản có đủ năng lực, điều kiện để giải quyết các công việc liên quan đến các bên."
+      },
+      {
+        "id": "D",
+        "text": "Cả ba ý trên đều đúng."
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-92",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 66,
+    "page": 13,
+    "prompt": "Đạo đức nghề nghiệp của Nhà môi giới Bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tuân thủ pháp luật."
+      },
+      {
+        "id": "B",
+        "text": "Cung cấp thông tin trung thực về Bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Đặt lợi ích của khách hàng lên trên hết."
+      },
+      {
+        "id": "D",
+        "text": "Cả A, B, C đều đúng."
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-93",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 68,
+    "page": 13,
+    "prompt": "Đạo đức nghề nghiệp nào mà Nhà môi giới không được phép làm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhận các khoản thù lao ngoài hợp đồng."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-94",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 70,
+    "page": 14,
+    "prompt": "Quy trình tư vấn cho khách hàng về dự án bất động sản bao gồm?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giới thiệu đầy đủ hồ sơ pháp lý của dự án, tư vấn cho khách hàng chi tiết đầy đủ. Các thông tin và dịch vụ kèm theo sản phẩm chào bán, giới thiệu chính xác các mức giá, các ưu đãi của dự án, hỗ trợ tài chính, ngân hàng (nếu có). Giải thích các điều khoản hợp đồng mua bán mẫu của dự án và đưa khách hàng xem mô hình dự án, căn hộ mẫu (nếu có)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-95",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 72,
+    "page": 14,
+    "prompt": "Trong tình hình thị trường bất động sản bị đóng băng, khi một người dự định bán bất động sản của mình, anh ta nên quảng cáo ở đâu thì có lợi và tốn ít chi phí nhất?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Tự treo bảng trước nhà hoặc những nơi dễ nhìn thấy."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-96",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 74,
+    "page": 14,
+    "prompt": "Kỹ năng nào sau đây là cần thiết cho người môi giới hoặc người đại diện cho người mua nhà?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tư vấn và đàm phán."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-97",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 75,
+    "page": 14,
+    "prompt": "Để tránh sự phản ứng, chống đối của khách hàng khi người môi giới tiếp xúc với khách hàng, với tư cách hành nghề môi giới chuyên nghiệp, mục tiêu cần ưu tiên số 1 mà người môi giới bất động sản cần thể hiện rõ để khách hàng nhận biết được lý do khiến họ quyết định trở thành người môi giới bất động sản là:",
+    "options": [
+      {
+        "id": "D",
+        "text": "Vì lợi ích của khách hàng và của mình."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-98",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 76,
+    "page": 14,
+    "prompt": "Để lập hồ sơ thương vụ môi giới BĐS, bên cung cần cung cấp",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thông tin chủ sở hữu, các loại giấy tờ, hồ sơ pháp lý của BĐS"
+      },
+      {
+        "id": "B",
+        "text": "Các giấy tờ liên quan đến thương vụ như giấy đặt cọc, phiếu thu chi …"
+      },
+      {
+        "id": "C",
+        "text": "Hợp đồng dịch vụ môi giới"
+      },
+      {
+        "id": "D",
+        "text": "Cả 3 câu trên đều đúng"
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-99",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 77,
+    "page": 14,
+    "prompt": "Rủi ro nào thường gặp nhất đối với hợp đồng đặt cọc mua BĐS, kể cả khi có công chứng?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Đặt cọc trá hình huy động vốn cho dự án chưa đủ điều kiện hoặc đặt cọc qua môi giới không ràng buộc được chủ đầu tư."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-100",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 78,
+    "page": 14,
+    "prompt": "Những đặc điểm có thể liệt kê trong “kỹ thuật cộng” khi đàm phán về giá cả BĐS",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thành phần cấu tạo, đặc tính sử dụng, vị trí địa lý BĐS"
+      },
+      {
+        "id": "B",
+        "text": "Thông tin quy hoạch, cơ sở hạ tầng, đặc điểm dân cư"
+      },
+      {
+        "id": "C",
+        "text": "Thời gian giao BĐS, thời hạn bảo hành"
+      },
+      {
+        "id": "D",
+        "text": "Câu A và C"
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-101",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 79,
+    "page": 14,
+    "prompt": "Tâm lý chung của khách hàng mua căn hộ lần đầu tiên là",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sợ rằng rủi ro tài chính sẽ rất lớn"
+      },
+      {
+        "id": "B",
+        "text": "Tìm hiểu thông tin liên quan rất kỹ"
+      },
+      {
+        "id": "C",
+        "text": "Cả A và B đều đúng"
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-102",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 80,
+    "page": 15,
+    "prompt": "Nhà môi giới cần phải quan tâm đến kỹ năng nào sau đây:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kỹ năng giao tiếp"
+      },
+      {
+        "id": "B",
+        "text": "Kỹ năng thu thập thông tin"
+      },
+      {
+        "id": "C",
+        "text": "Kỹ năng đàm phán"
+      },
+      {
+        "id": "D",
+        "text": "Tất cả kỹ năng trên"
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-103",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 83,
+    "page": 15,
+    "prompt": "Trong hoạt động môi giới bất động sản, nhà môi giới thường phải khắc phục những bất đồng nào sau đây, ngoại trừ:",
+    "options": [
+      {
+        "id": "D",
+        "text": "Bất đồng về thời tiết trong ngày giao dịch"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-104",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 85,
+    "page": 15,
+    "prompt": "Khi tư vấn và lập phương án tài chính cho quyết định mua bất động sản của khách hàng, bước đầu tiên mà môi giới cần thực hiện là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Xem xét quy mô đầu tư so với khả năng huy động vốn của khách hàng"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-105",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 86,
+    "page": 15,
+    "prompt": "Tình huống: Một khách hàng mua căn nhà trị giá 7,5 tỷ đồng. Ngân hàng đồng ý cho vay tối đa 70% giá trị căn nhà. Hỏi khách hàng phải chuẩn bị số tiền trả trước là bao nhiêu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,25 tỷ đồng."
+      },
+      {
+        "id": "B",
+        "text": "3,50 tỷ đồng."
+      },
+      {
+        "id": "C",
+        "text": "5,25 tỷ đồng."
+      },
+      {
+        "id": "D",
+        "text": "7,5 tỷ đồng"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Số tiền trả trước (hay vốn tự có) là phần giá trị căn nhà mà khách hàng phải tự chi trả, không bao gồm khoản vay từ ngân hàng. - Bước 1: Tính tỷ lệ trả trước Ngân hàng cho vay tối đa 70%, vậy khách hàng cần trả trước phần còn lại: 100% - 70% (tỷ lệ vay) = 30% - Bước 2: Tính số tiền trả trước: Lấy tổng giá trị căn nhà nhân với tỷ lệ trả trước: 7,5 tỷ đồng x 30% = 2,25 tỷ đồng Vậy, khách hàng phải chuẩn bị số tiền trả trước là 2,25 tỷ đồng."
+  },
+  {
+    "id": "cm-1-106",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 87,
+    "page": 15,
+    "prompt": "Những phương pháp nào sau đây Nhà môi giới sử dụng để thu thập thông tin về cầu Bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tìm kiếm qua phương tiện thông tin đại chúng."
+      },
+      {
+        "id": "B",
+        "text": "Gọi điện trực tiếp cho khách hàng."
+      },
+      {
+        "id": "C",
+        "text": "Gửi mail trực tiếp cho khách hàng."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả câu A, B, C là đúng."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-107",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 88,
+    "page": 15,
+    "prompt": "Thông tin về nguồn cung Bất động sản Nhà môi giới thu thập từ các kênh nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Từ các phương tiện thông tin đại chúng."
+      },
+      {
+        "id": "B",
+        "text": "Từ các cơ quan Quản lý Sở Xây dựng, Sở Nông Nghiệp & Môi trường, Sở Quy hoạch - Kiến trúc."
+      },
+      {
+        "id": "C",
+        "text": "Từ văn phòng Môi giới."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả câu A, B, C là đúng."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-108",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 89,
+    "page": 16,
+    "prompt": "Để lập hồ sơ cho một thương vụ môi giới bất động sản, bên cung ứng bất động sản cần cung cấp những thông tin, giấy tờ nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hồ sơ pháp lý về quyền sở hữu, quyền sử dụng bất động sản."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-109",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 90,
+    "page": 16,
+    "prompt": "Khi nghiên cứu thị trường bất động sản, nguồn nào sau đây thường được sử dụng để thu thập thông tin về nguồn cầu bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khách hàng, nhà đầu tư có nhu cầu mua, thuê bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Ngân hàng, tổ chức tín dụng.."
+      },
+      {
+        "id": "C",
+        "text": "Báo cáo thị trường của cơ quan quản lý nhà nước."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả các phương án trên"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-110",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 93,
+    "page": 16,
+    "prompt": "Điểm khác biệt cơ bản giữa đàm phán kiểu cứng và đàm phán kiểu nguyên tắc là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kiểu cứng tập trung vào thắng - thua, kiểu nguyên tắc tập trung vào lợi ích chung."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-111",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 94,
+    "page": 16,
+    "prompt": "Những điều cần tránh làm khi giới thiệu sản phẩm bất động sản là?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Luôn sử dụng các từ và thuật ngữ chuyên môn."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-112",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 100,
+    "page": 16,
+    "prompt": "Tâm lý chung của khách hàng mua căn hộ lần thứ hai là",
+    "options": [
+      {
+        "id": "B",
+        "text": "Tìm hiểu thông tin liên quan rất kỹ."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-113",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 102,
+    "page": 16,
+    "prompt": "Những biểu hiện nào sau đây cho phép xác định đối tượng khách hàng của bạn là “khách hàng thụ động”?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Né tránh, sợ bị gạt, không dám quyết định một mình."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-114",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 103,
+    "page": 16,
+    "prompt": "Trong quy trình môi giới, người môi giới BĐS cần thực hiện các nhiệm vụ sau:",
+    "options": [
+      {
+        "id": "B",
+        "text": "Khảo sát thực địa, hồ sơ pháp lý, thẩm định giá, quảng bá, giới thiệu BĐS."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-115",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 105,
+    "page": 16,
+    "prompt": "Theo khảo sát về cầu bất động sản mục đích để ở, yếu tố nào thường được khách hàng ưu tiên hàng đầu khi đưa ra quyết định mua?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Giá cả, chất lượng, tiện lợi, thời gian."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-116",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 106,
+    "page": 16,
+    "prompt": "Theo Luật kinh doanh bất động sản 2023 (hiệu lực 01/08/2024), điều kiện tiên quyết để một cá nhân được hành nghề môi giới bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Có Chứng chỉ hành nghề môi giới bất động sản và phải làm việc trong một tổ chức kinh doanh dịch vụ bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-117",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 107,
+    "page": 17,
+    "prompt": "Nguyên tắc đạo đức \"Trung thành\" của nhà môi giới bất động sản đối với khách hàng bị vi phạm trong trường hợp nào sau đây?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Môi giới đại diện người mua nhưng lại cố tình giới thiệu bất động sản giá cao hơn thị trường để nhận hoa hồng cao hơn từ người bán (nếu có thỏa thuận ngầm)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-118",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 108,
+    "page": 17,
+    "prompt": "Việc pháp luật yêu cầu nhà môi giới bất động sản phải có Chứng chỉ hành nghề nhằm mục đích chính là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đảm bảo nhà môi giới bất động sản có kiến thức chuyên môn, pháp luật và đạo đức cơ bản, góp phần nâng cao chất lượng dịch vụ và bảo vệ người tiêu dùng."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-119",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 109,
+    "page": 17,
+    "prompt": "Một cá nhân có Chứng chỉ hành nghề môi giới bất động sản nhưng không làm việc cho công ty nào, tự đứng ra nhận tiền của khách để tìm nhà giúp họ từ ngày 01/08/2024. Hành vi này có phù hợp với quy định mới không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không phù hợp, cá nhân phải hành nghề thông qua một tổ chức kinh doanh dịch vụ bất động sản."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-120",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 110,
+    "page": 17,
+    "prompt": "Điều kiện về \"cơ sở vật chất, kỹ thuật\" đối với doanh nghiệp kinh doanh dịch vụ môi giới bất động sản nhằm đảm bảo điều gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Doanh nghiệp có địa điểm hoạt động rõ ràng, có đủ trang thiết bị tối thiểu để phục vụ hoạt động nghiệp vụ và lưu trữ hồ sơ theo quy định."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-121",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 111,
+    "page": 17,
+    "prompt": "Yếu tố nào sau đây có ảnh hưởng GIÁN TIẾP nhưng lại mang tính quyết định đến sự sôi động hay trầm lắng của nghề môi giới bất động sản trong dài hạn?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Tình hình kinh tế vĩ mô và chu kỳ của thị trường bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-122",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 113,
+    "page": 17,
+    "prompt": "Tại sao nhà môi giới bất động sản cần có kiến thức về các yếu tố ảnh hưởng đến cung, cầu bất động sản (kinh tế vĩ mô, tài chính, xã hội...)?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Để có thể phân tích, dự báo (ở mức độ nhất định) xu hướng thị trường, từ đó tư vấn chiến lược phù hợp cho khách hàng (thời điểm mua/bán, mức giá hợp lý, tiềm năng đầu tư...)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-123",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 115,
+    "page": 17,
+    "prompt": "Sự phát triển của các nền tảng công nghệ bất động sản tại Việt Nam ảnh hưởng đến vai trò của nhà môi giới bất động sản truyền thống như thế nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Tạo ra cả thách thức (yêu cầu môi giới phải nâng cao kỹ năng công nghệ, đối mặt cạnh tranh từ nền tảng) và cơ hội (công cụ tìm kiếm khách hàng, quản lý công việc, marketing hiệu quả hơn)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-124",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 116,
+    "page": 17,
+    "prompt": "Nếu nhà môi giới bất động sản không có Chứng chỉ hành nghề mà vẫn thực hiện hoạt động môi giới và thu phí, họ có thể đối mặt với hậu quả pháp lý nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Bị xử phạt vi phạm hành chính theo quy định của pháp luật về kinh doanh Bất động sản và có thể không được pháp luật bảo vệ quyền lợi về hoa hồng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-125",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 117,
+    "page": 18,
+    "prompt": "Tình huống: Nhà môi giới bất động sản A được người bán ủy thác bán nhà. Sau đó, chính môi giới A lại muốn mua căn nhà đó. Để đảm bảo đạo đức và tránh xung đột lợi ích, môi giới A cần làm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Thông báo rõ ràng ý định muốn mua của mình cho người bán, từ bỏ vai trò môi giới đại diện cho người bán trong giao dịch này và tiến hành mua bán một cách công bằng như một người mua thông thường (có thể cần bên thứ ba hỗ trợ)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-126",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 118,
+    "page": 18,
+    "prompt": "Tình huống: Doanh nghiệp môi giới bất động sản B sử dụng Chứng chỉ hành nghề môi giới bất động sản của nhân viên C (đã nghỉ việc) để đăng ký hoạt động. Hành vi này có vi phạm pháp luật không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Vi phạm nghiêm trọng quy định về điều kiện kinh doanh dịch vụ môi giới (sử dụng chứng chỉ không đúng người, không còn người đủ điều kiện làm việc)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-127",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 119,
+    "page": 18,
+    "prompt": "Yếu tố nào sau đây KHÔNG phải là vai trò trực tiếp của nhà môi giới bất động sản chuyên nghiệp?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Quyết định phê duyệt quy hoạch đô thị."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-128",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 124,
+    "page": 18,
+    "prompt": "Tình huống : Chủ đầu tư dự án Y đưa ra mức hoa hồng rất cao..., đồng thời \"gợi ý\" các môi giới nên bỏ qua một vài thông tin chưa thuận lợi về pháp lý... Nhà môi giới nên ứng xử thế nào cho đúng đạo đức?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Vẫn tham gia bán hàng nhưng phải cung cấp thông tin một cách trung thực, đầy đủ về cả ưu điểm và các vấn đề pháp lý chưa thuận lợi cho khách hàng biết, đặt lợi ích và sự an toàn của khách hàng lên trên hoa hồng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-129",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 125,
+    "page": 18,
+    "prompt": "Việc nhà nước ngày càng siết chặt quản lý và yêu cầu cao hơn về điều kiện hành nghề môi giới bất động sản... thể hiện xu hướng gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Chuyên nghiệp hóa ngành nghề, nâng cao chất lượng dịch vụ, bảo vệ quyền lợi người tiêu dùng và tăng cường sự minh bạch của thị trường."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-130",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 126,
+    "page": 18,
+    "prompt": "Tình huống: Một doanh nghiệp môi giới bất động sản mới thành lập, chỉ có 1 người có chứng chỉ hành nghề (là giám đốc). Doanh nghiệp này có được phép tuyển thêm 10 nhân viên kinh doanh chưa có chứng chỉ để hỗ trợ tìm kiếm khách hàng và dẫn khách xem nhà không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Được phép, miễn là các hoạt động tư vấn chuyên sâu, ký kết hợp đồng dịch vụ do người có chứng chỉ thực hiện hoặc chịu trách nhiệm giám sát."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-131",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 127,
+    "page": 19,
+    "prompt": "Tình huống: Nhà môi giới A đang làm việc với khách hàng B (người mua). Khách hàng B bày tỏ lo ngại về vấn đề tài chính và hỏi liệu có thể \"lách\" một số quy định để được vay vốn dễ dàng hơn không. Nhà môi giới A nên:",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giải thích rõ ràng các quy định về tín dụng, nhấn mạnh tầm quan trọng của việc cung cấp thông tin trung thực cho ngân hàng, đồng thời tư vấn các phương án tài chính hợp pháp khác hoặc giới thiệu chuyên gia tư vấn tài chính nếu cần."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-132",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 128,
+    "page": 19,
+    "prompt": "Nếu nhà môi giới bất động sản không có Chứng chỉ hành nghề mà vẫn thực hiện hoạt động môi giới và thu phí, họ có thể đối mặt với hậu quả pháp lý nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Bị xử phạt vi phạm hành chính theo quy định của pháp luật về kinh doanh bất động sản và có thể không được pháp luật bảo vệ quyền lợi về hoa hồng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-133",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 129,
+    "page": 19,
+    "prompt": "Nhà môi giới có nên giữ bản gốc Giấy chứng nhận (GCN - Sổ hồng /Sổ đỏ) của khách hàng không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Tuyệt đối không nên giữ, chỉ xem, sao chụp và hoàn trả ngay."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-134",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 130,
+    "page": 19,
+    "prompt": "Nhà môi giới phát hiện thông tin trên Sổ hồng (diện tích) có sai “diện tích nhỏ hơn so với đo đạc thực tế”. Hành động nào thể hiện sự chuyên nghiệp và quản lý rủi ro tốt nhất?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Minh bạch thông báo cho cả bên mua và bên bán về sự khác biệt, giải thích về sai số cho phép (nếu có) và tư vấn các bên kiểm tra kỹ lưỡng hoặc đo đạc lại nếu cần."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-135",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 132,
+    "page": 19,
+    "prompt": "Tại sao nhà môi giới cần giúp khách hàng (đặc biệt là người mua lần đầu) hiểu rõ các điều khoản trong Hợp đồng Đặt cọc/Mua bán?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Vì khách hàng thường chủ quan, không đọc kỹ hoặc không hiểu hết các thuật ngữ pháp lý, có thể dẫn đến rủi ro hoặc tranh chấp không đáng có."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-136",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 133,
+    "page": 19,
+    "prompt": "Nhà môi giới bất động sản có được phép nhận đặt cọc để mua căn hộ từ khách hàng không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Được phép khi có văn bản ủy quyền của chủ đầu tư và/hoặc chủ bất động sản"
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-137",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 136,
+    "page": 19,
+    "prompt": "Đâu là hạn chế chính của việc chỉ dựa vào các mối quan hệ cá nhân để tìm kiếm khách hàng trong môi giới bất động sản?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Nguồn khách hàng bị giới hạn trong phạm vi mạng lưới quen biết, khó mở rộng quy mô kinh doanh."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-138",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 138,
+    "page": 19,
+    "prompt": "Thái độ nào là KHÔNG phù hợp khi nhà môi giới nhận được một lời phàn nàn gay gắt từ khách hàng?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Đổ lỗi ngược lại cho khách hàng hoặc bên thứ ba."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-139",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 139,
+    "page": 20,
+    "prompt": "Điều gì tạo nên sự khác biệt cốt lõi giữa một nhà môi giới bất động sản đơn thuần và một nhà tư vấn bất động sản chuyên nghiệp?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Khả năng cung cấp giải pháp toàn diện, dựa trên sự thấu hiểu sâu sắc nhu cầu khách hàng, kiến thức thị trường và phân tích chuyên môn, thay vì chỉ kết nối mua bán."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-140",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 141,
+    "page": 20,
+    "prompt": "Đâu là rủi ro khi nhà môi giới quá tập trung vào việc \"chốt sale\" nhanh chóng mà bỏ qua bước thẩm định thông tin kỹ lưỡng?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Có thể dẫn đến giao dịch thất bại giữa chừng, tranh chấp pháp lý, mất uy tín và gây thiệt hại cho khách hàng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-141",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 142,
+    "page": 20,
+    "prompt": "Trong trường hợp thị trường bất động sản biến động mạnh (tăng hoặc giảm giá nhanh), kỹ năng nào của nhà môi giới trở nên đặc biệt quan trọng?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Kỹ năng phân tích thị trường, dự báo (ở mức độ nhất định) và tư vấn chiến lược kịp thời, linh hoạt cho khách hàng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-142",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 143,
+    "page": 20,
+    "prompt": "Việc từ chối cung cấp thông tin sai lệch theo yêu cầu của khách hàng (ví dụ: yêu cầu nói dối về tình trạng bất động sản) thể hiện điều gì ở nhà môi giới?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Tính chính trực và tuân thủ đạo đức nghề nghiệp."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-143",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 144,
+    "page": 20,
+    "prompt": "Đâu là hạn chế của việc thẩm định giá bất động sản chỉ dựa vào phương pháp so sánh thị trường?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Có thể không chính xác nếu thị trường có ít giao dịch tương đồng hoặc bất động sản có tính độc đáo cao."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-144",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 146,
+    "page": 20,
+    "prompt": "Khi người bán muốn giá 2 tỷ, người mua trả 1.9 tỷ, chiến thuật nào KHÔNG phù hợp để môi giới thu hẹp khoảng cách?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Nhấn mạnh vào điểm yếu của bất động sản để ép người bán giảm giá sâu hơn nữa."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-145",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 147,
+    "page": 20,
+    "prompt": "Khi kết thúc một thương vụ thành công, hành động nào thể hiện sự chuyên nghiệp và giúp duy trì mối quan hệ tốt đẹp với khách hàng?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Gửi lời cảm ơn chân thành, hỏi thăm về trải nghiệm và đề nghị hỗ trợ nếu có vấn đề phát sinh (trong phạm vi hợp lý)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-146",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 148,
+    "page": 20,
+    "prompt": "Tình huống: Hợp đồng mua bán có điều khoản \"Giá bán không bao gồm thuế, phí liên quan đến việc chuyển nhượng\". Vậy, lệ phí trước bạ sẽ do ai chịu trách nhiệm nộp?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Người mua."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-147",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 150,
+    "page": 20,
+    "prompt": "Tình huống: Một bất động sản được đồng sở hữu bởi 3 anh em. Một người trong số đó liên hệ nhà môi giới N để bán. Nhà môi giới N cần yêu cầu giấy tờ gì để đảm bảo giao dịch hợp lệ?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Giấy chứng nhận quyền sử dụng đất và văn bản đồng ý/ủy quyền bán có chữ ký hợp lệ của cả 3 anh em (nên được công chứng/chứng thực)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-148",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 152,
+    "page": 21,
+    "prompt": "Tình huống: Hợp đồng mua bán bất động sản quy định thời hạn bên bán phải bàn giao nhà là 30 ngày sau khi ký công chứng. Đến ngày thứ 30, bên bán vẫn chưa dọn đi và xin thêm 1 tuần. Bên mua nên:",
+    "options": [
+      {
+        "id": "C",
+        "text": "Xem xét lý do chậm trễ, nếu hợp lý có thể đồng ý gia hạn nhưng nên lập thành văn bản (phụ lục hợp đồng) ghi rõ thời hạn mới và có thể kèm theo điều kiện (ví dụ: bên bán chịu chi phí thuê nhà phát sinh cho bên mua trong 1 tuần đó)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-149",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 153,
+    "page": 21,
+    "prompt": "Tình huống: Trong quá trình đàm phán, nhà môi giới nhận thấy cả bên mua và bên bán đều có thiện chí nhưng gặp khó khăn trong việc tìm tiếng nói chung về một vài điều khoản nhỏ. Nhà môi giới nên đóng vai trò gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Đề xuất các giải pháp trung gian, các phương án thỏa hiệp công bằng cho các điều khoản nhỏ đó để giúp hai bên vượt qua điểm nghẽn và đi đến thỏa thuận cuối cùng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cm-1-150",
+    "set": "cm-1",
+    "subject": "Chuyên môn",
+    "number": 154,
+    "page": 21,
+    "prompt": "Tình huống: Hợp đồng đặt cọc không ghi rõ về việc ai sẽ chịu chi phí công chứng hợp đồng mua bán. Theo thông lệ tại nhiều địa phương ở Việt Nam, chi phí này thường do ai chịu?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Thường do người mua chịu, hoặc hai bên thỏa thuận chia đôi."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-1",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 1,
+    "page": 1,
+    "prompt": "Văn bản công chứng có giá trị pháp lý như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ có giá trị tham khảo."
+      },
+      {
+        "id": "B",
+        "text": "Có hiệu lực thi hành đối với các bên và có giá trị chứng cứ cao."
+      },
+      {
+        "id": "C",
+        "text": "Cần phải được Tòa án phê duyệt mới có hiệu lực."
+      },
+      {
+        "id": "D",
+        "text": "Có giá trị tương đương văn bản chứng thực."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-2",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 2,
+    "page": 1,
+    "prompt": "Nội dung nào không bắt buộc phải có trong hợp đồng mua bán nhà ở giữa chủ đầu tư và khách hàng?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thời hạn bảo hành và trách nhiệm bảo trì."
+      },
+      {
+        "id": "B",
+        "text": "Thông tin về tổ chức hành nghề công chứng (nếu có công chứng)."
+      },
+      {
+        "id": "C",
+        "text": "Thời điểm chuyển giao quyền sở hữu."
+      },
+      {
+        "id": "D",
+        "text": "Giá bán và phương thức thanh toán."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-3",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 3,
+    "page": 1,
+    "prompt": "Cá nhân G có thửa đất ở đã được Giấy chứng nhận quyền sử dụng đất (LURC). Nay G muốn dùng QSDĐ này để góp vốn cùng bạn thành lập Công ty TNHH kinh doanh dịch vụ ăn uống. Việc góp vốn này có cần làm thủ tục gì về đất đai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không cần, chỉ cần thỏa thuận trong nội bộ công ty."
+      },
+      {
+        "id": "B",
+        "text": "Phải làm thủ tục đăng ký biến động đất đai (chuyển quyền do góp vốn) và hợp đồng góp vốn phải được công chứng hoặc chứng thực."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần thông báo cho cơ quan thuế."
+      },
+      {
+        "id": "D",
+        "text": "Phải xin phép UBND cấp tỉnh."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-4",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 4,
+    "page": 1,
+    "prompt": "Công ty A được Nhà nước cho thuê 5ha đất trong Khu Công nghiệp X để xây dựng nhà xưởng, trả tiền thuê đất hằng năm. Sau 5 năm hoạt động, Công ty A muốn chuyển nhượng toàn bộ dự án và quyền sử dụng đất này cho Công ty B. Theo Luật Đất đai 2024, Công ty A có thể thực hiện giao dịch này không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có, được phép chuyển nhượng QSDĐ như đất trả tiền một lần."
+      },
+      {
+        "id": "B",
+        "text": "Không, vì đất thuê trả tiền hằng năm không được chuyển nhượng QSDĐ."
+      },
+      {
+        "id": "C",
+        "text": "Có, nhưng chỉ được chuyển nhượng \"quyền thuê trong hợp đồng thuê đất\" và tài sản gắn liền với đất, không phải chuyển nhượng QSDĐ."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được chuyển nhượng nếu Công ty B cũng là doanh nghiệp nhà nước."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-5",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 5,
+    "page": 1,
+    "prompt": "Bà P cho bà Q vay 500 triệu đồng tiền mặt để mua đất. Giao dịch này có phải báo cáo theo quy định về phòng chống rửa tiền không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có, vì liên quan đến mua bán bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Có, vì giá trị giao dịch trên 400 triệu đồng."
+      },
+      {
+        "id": "C",
+        "text": "Không, vì đây là giao dịch cho vay cá nhân, không phải do đối tượng báo cáo (như kinh doanh BĐS, ngân hàng) thực hiện."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ phải báo cáo nếu bà Q dùng tiền này mua đất qua sàn giao dịch BĐS."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-6",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 6,
+    "page": 2,
+    "prompt": "Cá nhân có hành vi “kinh doanh bất động sản khi không đủ điều kiện” sẽ bị phạt tiền trong mức nào sau đây?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Từ 80.000.000 đồng đến dưới 120.000.000 đồng"
+      },
+      {
+        "id": "B",
+        "text": "Từ 120.000.000 đồng đến 160.000.000 đồng"
+      },
+      {
+        "id": "C",
+        "text": "Từ trên 160.000.000 đồng đến 200.000.000 đồng"
+      },
+      {
+        "id": "D",
+        "text": "Trên 200.000.000 đồng"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-7",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 7,
+    "page": 2,
+    "prompt": "Loại hình doanh nghiệp nào mà thành viên chịu trách nhiệm hữu hạn trong phạm vi vốn góp và không được phát hành cổ phần?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Công ty Cổ phần."
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp Tư nhân."
+      },
+      {
+        "id": "C",
+        "text": "Công ty Hợp danh."
+      },
+      {
+        "id": "D",
+        "text": "Công ty Trách nhiệm hữu hạn."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-8",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 8,
+    "page": 2,
+    "prompt": "Việc không công khai thông tin về BĐS, dự án BĐS theo quy định có phải là hành vi bị cấm không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không, chỉ là thiếu sót nhỏ."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bị nhắc nhở."
+      },
+      {
+        "id": "C",
+        "text": "Có, đây là hành vi bị nghiêm cấm theo Luật kinh doanh BĐS 2023."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bị cấm nếu gây hậu quả nghiêm trọng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-9",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 9,
+    "page": 2,
+    "prompt": "Tổng số tiền thanh toán trước khi bên mua được cấp Giấy chứng nhận không được vượt quá bao nhiêu % giá trị hợp đồng?",
+    "options": [
+      {
+        "id": "A",
+        "text": "70%"
+      },
+      {
+        "id": "B",
+        "text": "80%"
+      },
+      {
+        "id": "C",
+        "text": "95%"
+      },
+      {
+        "id": "D",
+        "text": "100%"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-10",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 10,
+    "page": 2,
+    "prompt": "Người mua NƠXH được cho thuê lại nhà ở không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không được phép cho thuê lại trong mọi trường hợp."
+      },
+      {
+        "id": "B",
+        "text": "Được phép cho thuê lại nhưng phải bảo đảm quy định của Luật Nhà ở."
+      },
+      {
+        "id": "C",
+        "text": "Được phép cho thuê lại nếu đã thanh toán xong 50% tiền mua nhà."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cho thuê lại khi đã đủ 08 năm."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-11",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 11,
+    "page": 3,
+    "prompt": "Đối tượng báo cáo trong lĩnh vực kinh doanh BĐS theo Luật Phòng, chống rửa tiền 2022 gồm những ai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tổ chức, cá nhân kinh doanh dịch vụ quản lý, tư vấn, sàn giao dịch BĐS, thuê, cho thuê mua BĐS."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ gồm sàn giao dịch BĐS và doanh nghiệp phát triển dự án."
+      },
+      {
+        "id": "C",
+        "text": "Tất cả cá nhân tham gia giao dịch mua bán nhà đất."
+      },
+      {
+        "id": "D",
+        "text": "Tổ chức kinh doanh BĐS có giao dịch từ 500 triệu đồng trở lên."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-12",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 12,
+    "page": 3,
+    "prompt": "Mức phạt vi phạm hành chính đối với cá nhân so với tổ chức trong lĩnh vực bất động sản thường như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cá nhân bị phạt cao hơn tổ chức"
+      },
+      {
+        "id": "B",
+        "text": "Cá nhân và tổ chức bị phạt mức như nhau"
+      },
+      {
+        "id": "C",
+        "text": "Cá nhân bị phạt thấp hơn tổ chức"
+      },
+      {
+        "id": "D",
+        "text": "Cá nhân không bị phạt, chỉ có tổ chức bị phạt"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-13",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 13,
+    "page": 3,
+    "prompt": "Khi hết thời hạn thuê đất hàng năm, chủ đầu tư dự án nhà ở xã hội được xử lý thế nào theo Luật Đất đai 2024?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phải làm thủ tục xin gia hạn tối thiểu 06 tháng trước khi hết hạn."
+      },
+      {
+        "id": "B",
+        "text": "Khi hết thời hạn, chủ đầu tư dự án nhà ở xã hội nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất"
+      },
+      {
+        "id": "C",
+        "text": "Nhà nước sẽ thu hồi đất để đấu giá lại."
+      },
+      {
+        "id": "D",
+        "text": "Được gia hạn tự động không quá 20 năm."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-14",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 14,
+    "page": 3,
+    "prompt": "Chủ đầu tư khi bán bất động sản phải nộp những loại thuế gì sau đây?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thuế thu nhập doanh nghiệp."
+      },
+      {
+        "id": "B",
+        "text": "Thuế chuyển nhượng bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Không phải nộp thuế."
+      },
+      {
+        "id": "D",
+        "text": "Thuế trước bạ."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-15",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 15,
+    "page": 3,
+    "prompt": "Để kinh doanh quyền sử dụng đất đã có hạ tầng kỹ thuật, điều kiện bắt buộc là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đã hoàn thành nghĩa vụ tài chính và được cho phép phân lô bán nền."
+      },
+      {
+        "id": "B",
+        "text": "Có Giấy chứng nhận QSDĐ và hoàn thành đầu tư xây dựng các công trình hạ tầng kỹ thuật theo tiến độ dự án."
+      },
+      {
+        "id": "C",
+        "text": "Đất không có tranh chấp và đã nộp đủ 50% tiền sử dụng đất."
+      },
+      {
+        "id": "D",
+        "text": "Hoàn thành hạ tầng đồng bộ và đảm bảo cung cấp dịch vụ cơ bản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-16",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 16,
+    "page": 3,
+    "prompt": "Theo Luật Công chứng năm 2024, tổ chức hành nghề công chứng bao gồm những loại hình nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ có Phòng Công chứng."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ có Văn phòng công chứng."
+      },
+      {
+        "id": "C",
+        "text": "Phòng Công chứng và Văn phòng công chứng."
+      },
+      {
+        "id": "D",
+        "text": "Văn phòng công chứng và Công ty luật có chức năng công chứng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-17",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 17,
+    "page": 4,
+    "prompt": "Mức thù lao của dịch vụ môi giới bất động sản được xác định:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không quá 3% giá trị bất động sản được tư vấn"
+      },
+      {
+        "id": "B",
+        "text": "Theo thỏa thuận trong hợp đồng"
+      },
+      {
+        "id": "C",
+        "text": "Không ít hơn 500.000 đồng cho mỗi lần tư vấn"
+      },
+      {
+        "id": "D",
+        "text": "Đáp án A, B và C đều đúng"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-18",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 18,
+    "page": 4,
+    "prompt": "Theo Luật Nhà ở 2023, tổ chức, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam trong khu vực nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trong bất kỳ dự án nhà ở thương mại nào trên toàn quốc."
+      },
+      {
+        "id": "B",
+        "text": "Trong dự án đầu tư xây dựng nhà ở, trừ dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh theo quy định của pháp luật Việt Nam."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được sở hữu nhà ở tại các khu công nghiệp, khu kinh tế."
+      },
+      {
+        "id": "D",
+        "text": "Trong dự án nhà ở thương mại đã hoàn thành xây dựng và có Giấy chứng nhận."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-19",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 19,
+    "page": 4,
+    "prompt": ": Theo Luật Kinh doanh bất động sản 2023 , trường hợp nào đất đã có hạ tầng kỹ thuật trong dự án bất động sản không được chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đất nông nghiệp vùng sâu vùng xa."
+      },
+      {
+        "id": "B",
+        "text": "Đất thuộc khu vực Phường thuộc đô thị loại đặc biệt, loại I, loại II và loại III."
+      },
+      {
+        "id": "C",
+        "text": "Đất ở nông thôn mới hoàn thiện hạ tầng."
+      },
+      {
+        "id": "D",
+        "text": "Xã ven đô thị loại đặc biệt."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-20",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 20,
+    "page": 4,
+    "prompt": "Gia đình chị Hoa (gồm 2 vợ chồng) có tổng thu nhập hàng tháng sau khi trừ các khoản đóng góp bắt buộc là 35 triệu đồng. Gia đình chị chưa có nhà ở và có hộ khẩu tại tỉnh X. Gia đình chị có đủ điều kiện về thu nhập để mua NOXH tại tỉnh X không (theo NĐ 136/2026 và quy định hiện hành)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đủ điều kiện vì chưa có nhà ở."
+      },
+      {
+        "id": "B",
+        "text": "Đủ điều kiện vì tổng thu nhập hộ gia đình của 2 vợ chồng người đó có tổng thu nhập bình quân hàng tháng thực nhận không quá 50 triệu đồng."
+      },
+      {
+        "id": "C",
+        "text": "Đủ điều kiện nếu chứng minh được chi phí sinh hoạt cao."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ đủ điều kiện nếu có con nhỏ."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-21",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 21,
+    "page": 4,
+    "prompt": "Hình thức của giao dịch dân sự bao gồm những gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lời nói và văn bản."
+      },
+      {
+        "id": "B",
+        "text": "Văn bản có công chứng và văn bản thông thường."
+      },
+      {
+        "id": "C",
+        "text": "Lời nói, văn bản hoặc hành vi cụ thể."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bằng văn bản đối với bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-22",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 22,
+    "page": 4,
+    "prompt": "Mức vốn pháp định tối thiểu đối với ngành nghề kinh doanh bất động sản:",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 tỷ đồng."
+      },
+      {
+        "id": "B",
+        "text": "50 tỷ đồng."
+      },
+      {
+        "id": "C",
+        "text": "10 tỷ đồng."
+      },
+      {
+        "id": "D",
+        "text": "Pháp luật không quy định."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-23",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 23,
+    "page": 5,
+    "prompt": "Ông Thành và bà Vân ly hôn, có thỏa thuận phân chia tài sản chung là QSDĐ tại Bình Dương. Họ muốn công chứng thỏa thuận này. Thỏa thuận phân chia tài sản chung của vợ chồng sau ly hôn liên quan đến QSDĐ có bắt buộc công chứng/chứng thực không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không bắt buộc."
+      },
+      {
+        "id": "B",
+        "text": "Bắt buộc phải công chứng hoặc chứng thực."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bắt buộc nếu giá trị đất trên 1 tỷ đồng."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần có xác nhận của Tòa án đã giải quyết ly hôn."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-24",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 24,
+    "page": 5,
+    "prompt": "Nguyên tắc bồi thường về đất khi Nhà nước thu hồi đất là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luôn bồi thường bằng tiền mặt."
+      },
+      {
+        "id": "B",
+        "text": "Bồi thường bằng việc giao đất cùng mục đích sử dụng; nếu không có đất thì bồi thường bằng tiền theo giá đất cụ thể tại thời điểm phê duyệt phương án."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bồi thường cho đất ở, không bồi thường cho đất nông nghiệp."
+      },
+      {
+        "id": "D",
+        "text": "Bồi thường theo giá đất trong Bảng giá đất hàng năm."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-25",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 25,
+    "page": 5,
+    "prompt": "Thủ tục nào theo Luật Đầu tư 2020 thường áp dụng cho các dự án BĐS quy mô lớn?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chỉ cần xin Giấy phép xây dựng."
+      },
+      {
+        "id": "B",
+        "text": "Chấp thuận chủ trương đầu tư."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần đăng ký kinh doanh."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần thẩm định giá đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-26",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 26,
+    "page": 5,
+    "prompt": "Theo Luật Thuế thu nhập cá nhân và các văn bản hướng dẫn, trong trường hợp nào cá nhân được miễn thuế TNCN khi chuyển nhượng nhà ở, đất ở?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khi chuyển nhượng nhà ở, quyền sử dụng đất ở duy nhất của cá nhân đó."
+      },
+      {
+        "id": "B",
+        "text": "Khi chuyển nhượng bất kỳ loại bất động sản nào có giá trị dưới 1 tỷ đồng."
+      },
+      {
+        "id": "C",
+        "text": "Khi chuyển nhượng nhà ở trong vòng 5 năm kể từ ngày mua.."
+      },
+      {
+        "id": "D",
+        "text": "Khi chuyển nhượng bất động sản cho bạn thân."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-27",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 27,
+    "page": 5,
+    "prompt": "Hoạt động nào sau đây trong lĩnh vực bất động sản KHÔNG thuộc đối tượng phải báo cáo phòng chống rửa tiền theo Luật phòng chống rửa tiền 2022?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kinh doanh dịch vụ môi giới bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Đầu tư, phát triển dự án bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Dịch vụ tư vấn bất động sản."
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của sàn giao dịch bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-28",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 28,
+    "page": 5,
+    "prompt": "Việc chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai yêu cầu gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phải có sự đồng ý bằng văn bản của chủ đầu tư."
+      },
+      {
+        "id": "B",
+        "text": "Phải được công chứng và thông báo cho cơ quan thuế."
+      },
+      {
+        "id": "C",
+        "text": "Hợp đồng mua bán nhà ở hình thành trong tương lai không có tranh chấp"
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được thực hiện sau khi có Giấy chứng nhận quyền sử dụng đất."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-29",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 29,
+    "page": 6,
+    "prompt": "Một hợp đồng chuyển nhượng bất động sản được ghi nhận sai giá (không phản ánh đúng giá giao dịch thực tế). Hậu quả của việc kê khai sai giá này là:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doanh nghiệp được giảm thuế phải nộp hợp pháp"
+      },
+      {
+        "id": "B",
+        "text": "Dễ dẫn đến tính sai số thuế phải nộp và bị xử phạt"
+      },
+      {
+        "id": "C",
+        "text": "Không ảnh hưởng vì chỉ là lỗi về hình thức"
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần điều chỉnh hồ sơ trong lần kê khai sau"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-30",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 30,
+    "page": 6,
+    "prompt": "Chủ thể nào KHÔNG phải là đối tượng báo cáo theo Luật Phòng, chống rửa tiền 2022 trong lĩnh vực bất động sản?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản."
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp kinh doanh sàn giao dịch bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Chủ đầu tư dự án bất động sản."
+      },
+      {
+        "id": "D",
+        "text": "Cá nhân cho thuê nhà ở của chính mình."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-31",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 31,
+    "page": 6,
+    "prompt": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức, cá nhân kinh doanh bất động sản (trừ cho thuê, tư vấn) có nghĩa vụ báo cáo giao dịch đáng ngờ (STR) không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không, chỉ ngân hàng mới phải báo cáo."
+      },
+      {
+        "id": "B",
+        "text": "Chỉ báo cáo khi có yêu cầu của cơ quan công an."
+      },
+      {
+        "id": "C",
+        "text": "Có, đây là một trong các nghĩa vụ phòng chống rửa tiền."
+      },
+      {
+        "id": "D",
+        "text": "Chỉ báo cáo các giao dịch trên 1 tỷ đồng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-32",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 32,
+    "page": 6,
+    "prompt": "Hợp đồng dân sự được giao kết hợp pháp có hiệu lực từ thời điểm nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thời điểm các bên bắt đầu thực hiện nghĩa vụ."
+      },
+      {
+        "id": "B",
+        "text": "Thời điểm hợp đồng được giao kết."
+      },
+      {
+        "id": "C",
+        "text": "Thời điểm hợp đồng được công chứng."
+      },
+      {
+        "id": "D",
+        "text": "Thời điểm hợp đồng được lập thành văn bản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-33",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 33,
+    "page": 6,
+    "prompt": "Khi xử phạt vi phạm hành chính, cơ quan có thẩm quyền sẽ dựa vào yếu tố nào sau đây để xác định mức phạt cụ thể?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mong muốn người vi phạm"
+      },
+      {
+        "id": "B",
+        "text": "Sự nổi tiếng của người vi phạm"
+      },
+      {
+        "id": "C",
+        "text": "Mức độ, hậu quả của hành vi vi phạm"
+      },
+      {
+        "id": "D",
+        "text": "Ý kiến từ người dân xung quanh"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-34",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 34,
+    "page": 6,
+    "prompt": "Theo Luật Đất đai năm 2024, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Là văn bản của cơ quan có thẩm quyền cho phép người sử dụng đất thực hiện các quyền chuyển nhượng, tặng cho."
+      },
+      {
+        "id": "B",
+        "text": "Là văn bản hành chính do Ủy ban nhân dân cấp tỉnh ban hành để quản lý đất đai."
+      },
+      {
+        "id": "C",
+        "text": "Là tài liệu ghi nhận sự thỏa thuận về quyền sử dụng đất giữa Nhà nước và người sử dụng đất."
+      },
+      {
+        "id": "D",
+        "text": "Là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-35",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 35,
+    "page": 7,
+    "prompt": "Theo Nghị định 339/2026/NĐ-CP, cá nhân hành nghề môi giới bất động sản nhưng không có chứng chỉ hành nghề theo quy định thì bị phạt tiền?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Từ 20 triệu đồng đến 40 triệu đồng"
+      },
+      {
+        "id": "B",
+        "text": "Từ 40 triệu đồng đến 60 triệu đồng"
+      },
+      {
+        "id": "C",
+        "text": "Từ 60 triệu đồng đến 80 triệu đồng"
+      },
+      {
+        "id": "D",
+        "text": "Từ 80 triệu đồng đến 100 triệu đồng"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-36",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 36,
+    "page": 7,
+    "prompt": "Sau 05 năm, khi bán lại NƠXH dạng nhà chung cư, người bán phải thực hiện nghĩa vụ gì đối với Nhà nước?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nộp 50% tiền sử dụng đất được phân bổ."
+      },
+      {
+        "id": "B",
+        "text": "Nộp 100% tiền sử dụng đất theo bảng giá đất hiện hành."
+      },
+      {
+        "id": "C",
+        "text": "Không phải nộp lại tiền sử dụng đất cho Nhà nước."
+      },
+      {
+        "id": "D",
+        "text": "Nộp 100% tiền sử dụng đất cho chủ đầu tư."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-37",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 37,
+    "page": 7,
+    "prompt": "Theo Luật Kinh doanh bất động sản 2023, điều kiện chung đối với tổ chức kinh doanh BĐS là gì (ngoại trừ trường hợp quy mô nhỏ)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phải có vốn pháp định tối thiểu là 20 tỷ đồng."
+      },
+      {
+        "id": "B",
+        "text": "Phải thành lập doanh nghiệp hoặc hợp tác xã."
+      },
+      {
+        "id": "C",
+        "text": "Phải có Giấy phép kinh doanh BĐS do cơ quan có thẩm quyền cấp."
+      },
+      {
+        "id": "D",
+        "text": "Phải có ít nhất 02 người có chứng chỉ môi giới BĐS."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-38",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 38,
+    "page": 7,
+    "prompt": "Theo quy định, bất động sản bao gồm những loại tài sản nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đất đai và nhà ở."
+      },
+      {
+        "id": "B",
+        "text": "Đất đai, tài sản gắn liền với đất đai và các tài sản khác theo luật định."
+      },
+      {
+        "id": "C",
+        "text": "Nhà ở và các công trình xây dựng."
+      },
+      {
+        "id": "D",
+        "text": "Đất đai, cây trồng và vật nuôi trên đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-39",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 39,
+    "page": 7,
+    "prompt": "Khi “cầu” BĐS tăng sẽ ảnh hưởng như thế nào đến giá bán và tiền thuê BĐS trong ngắn hạn?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giá và tiền thuê sẽ giảm."
+      },
+      {
+        "id": "B",
+        "text": "Giá sẽ giảm nhưng tiền thuê sẽ tăng."
+      },
+      {
+        "id": "C",
+        "text": "Giá và tiền thuê sẽ tăng."
+      },
+      {
+        "id": "D",
+        "text": "Giá sẽ tăng nhưng tiền thuê sẽ giảm."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-40",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 40,
+    "page": 7,
+    "prompt": "Nếu bên mua, thuê mua nhà ở, công trình xây dựng tự thực hiện việc xin cấp Giấy chứng nhận thì tổng số tiền thanh toán trước khi được cấp giấy không vượt quá bao nhiêu % giá trị hợp đồng?",
+    "options": [
+      {
+        "id": "A",
+        "text": "70%"
+      },
+      {
+        "id": "B",
+        "text": "80%"
+      },
+      {
+        "id": "C",
+        "text": "90%"
+      },
+      {
+        "id": "D",
+        "text": "95%"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-41",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 41,
+    "page": 8,
+    "prompt": "Tình huống: Công ty BĐS An Khang đang triển khai dự án nhà ở thương mại quy mô 18 ha. Để đáp ứng điều kiện về vốn chủ sở hữu theo Luật KDBĐS 2023, An Khang cần đảm bảo tỷ lệ vốn chủ sở hữu tối thiểu là bao nhiêu so với tổng mức đầu tư?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15%, vì dự án dưới 20 ha."
+      },
+      {
+        "id": "B",
+        "text": "20%, vì dự án dưới 20 ha."
+      },
+      {
+        "id": "C",
+        "text": "15%, vì là dự án nhà ở thương mại."
+      },
+      {
+        "id": "D",
+        "text": "20%, bất kể quy mô dự án."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-42",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 42,
+    "page": 8,
+    "prompt": "Hành vi nào bị nghiêm cấm trong kinh doanh bất động sản theo Luật 2023?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Không thực hiện đúng cam kết tiến độ xây dựng."
+      },
+      {
+        "id": "B",
+        "text": "Gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản."
+      },
+      {
+        "id": "C",
+        "text": "Không thực hiện chuyển nhượng dự án cho bên thứ ba sau khi đã được chấp thuận."
+      },
+      {
+        "id": "D",
+        "text": "Tiếp tục giao dịch sau khi bị đình chỉ nhưng đã khắc phục xong lỗi."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-43",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 43,
+    "page": 8,
+    "prompt": "Việc xây dựng Bảng giá đất chi tiết đến từng thửa đất theo Luật Đất đai 2024 yêu cầu phải có điều kiện gì về hạ tầng thông tin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mạng lưới internet tốc độ cao"
+      },
+      {
+        "id": "B",
+        "text": "Hệ thống định vị toàn cầu"
+      },
+      {
+        "id": "C",
+        "text": "Bản đồ địa chính số và cơ sở dữ liệu giá đất"
+      },
+      {
+        "id": "D",
+        "text": "Hệ thống camera giám sát"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-44",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 44,
+    "page": 8,
+    "prompt": "Yếu tố nào là quan trọng nhất ảnh hưởng trực tiếp đến giá trị của bất động sản đất đai?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diện tích và vị trí thửa đất."
+      },
+      {
+        "id": "B",
+        "text": "Mục đích sử dụng đất và thời hạn sử dụng đất."
+      },
+      {
+        "id": "C",
+        "text": "Tình trạng pháp lý người sử dụng."
+      },
+      {
+        "id": "D",
+        "text": "Hình dạng thửa đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-45",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 45,
+    "page": 8,
+    "prompt": "Người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam khi đáp ứng điều kiện gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Được phép nhập cảnh vào Việt Nam và có giấy tờ chứng minh quốc tịch Việt Nam hoặc xác nhận gốc Việt Nam."
+      },
+      {
+        "id": "B",
+        "text": "Có nguồn thu nhập hợp pháp để mua nhà và được phép nhập cảnh."
+      },
+      {
+        "id": "C",
+        "text": "Có thẻ căn cước công dân hoặc giấy khai sinh."
+      },
+      {
+        "id": "D",
+        "text": "Có dự án đầu tư tại Việt Nam."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-46",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 46,
+    "page": 8,
+    "prompt": "Đối tượng nước ngoài nào được sở hữu nhà ở tại Việt Nam theo Luật Nhà ở 2023?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cá nhân nước ngoài thuộc diện được miễn thị thực."
+      },
+      {
+        "id": "B",
+        "text": "Tổ chức nước ngoài có vốn đầu tư tại Việt Nam từ 100 tỷ đồng."
+      },
+      {
+        "id": "C",
+        "text": "Tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở theo dự án tại Việt Nam."
+      },
+      {
+        "id": "D",
+        "text": "Tổ chức nước ngoài có trụ sở hoặc văn phòng đại diện tại Việt Nam."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-47",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 47,
+    "page": 9,
+    "prompt": "Thị trường bất động sản thường được phân loại theo cấp độ nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thị trường sơ cấp và thị trường thứ cấp."
+      },
+      {
+        "id": "B",
+        "text": "Thị trường nội địa và thị trường quốc tế."
+      },
+      {
+        "id": "C",
+        "text": "Thị trường nhà ở và thị trường đất nông nghiệp."
+      },
+      {
+        "id": "D",
+        "text": "Thị trường giao dịch và thị trường thế chấp."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-48",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 48,
+    "page": 9,
+    "prompt": "Mức đặt cọc tối đa mà chủ đầu tư được thu khi bán nhà ở hình thành trong tương lai theo Luật KDBĐS năm 2023 là bao nhiêu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10% giá bán"
+      },
+      {
+        "id": "B",
+        "text": "5% giá bán"
+      },
+      {
+        "id": "C",
+        "text": "30% giá bán"
+      },
+      {
+        "id": "D",
+        "text": "Không giới hạn"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-49",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 49,
+    "page": 9,
+    "prompt": "Hình thức công khai thông tin dự án BĐS nào là bắt buộc theo quy định?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tại cổng thông tin Sở Xây dựng và địa điểm kinh doanh."
+      },
+      {
+        "id": "B",
+        "text": "Trên trang điện tử của chủ đầu tư, Hệ thống thông tin về nhà ở và thị trường BĐS của Bộ Xây dựng và tại Sàn giao dịch BĐS (nếu có)."
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần trên trang điện tử của doanh nghiệp."
+      },
+      {
+        "id": "D",
+        "text": "Tại trang điện tử chủ đầu tư và trụ sở Ban quản lý."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-0-50",
+    "set": "cs-0",
+    "subject": "Cơ sở",
+    "number": 50,
+    "page": 9,
+    "prompt": "Khái niệm \"Bất động sản\" được hiểu là gì theo pháp luật Việt Nam (Luật Đất đai 2024, Bộ luật Dân sự 2015)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Là đất đai và tài sản gắn liền với đất đai, bao gồm nhà ở, công trình xây dựng, rừng sản xuất là rừng tự nhiên."
+      },
+      {
+        "id": "B",
+        "text": "Là các tài sản bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất; tài sản khác gắn liền với đất, tài sản khác theo quy định của pháp luật."
+      },
+      {
+        "id": "C",
+        "text": "Là tài sản không thể di dời, chỉ bao gồm đất đai và nhà ở."
+      },
+      {
+        "id": "D",
+        "text": "Là quyền sử dụng đất và các công trình hình thành trong tương lai trên đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-51",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 1,
+    "page": 9,
+    "prompt": "Hành vi nào sau đây bị nghiêm cấm theo Luật KDBĐS 2023?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Giả mạo tài liệu, cố ý làm sai lệch thông tin về BĐS."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-52",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 4,
+    "page": 9,
+    "prompt": "Cá nhân hành nghề môi giới BĐS được nhận thù lao/hoa hồng từ đâu theo Luật KDBĐS 2023?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Từ sàn giao dịch BĐS hoặc doanh nghiệp kinh doanh dịch vụ môi giới BĐS nơi cá nhân đó làm việc."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-53",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 6,
+    "page": 9,
+    "prompt": "Tình huống: Bà Lan là một nhà môi giới BĐS tự do, có chứng chỉ hành nghề còn hiệu lực. Bà tự mình tìm kiếm khách hàng và thực hiện giao dịch môi giới cho một vụ mua bán nhà đất giữa ông Bình và bà Hoa, nhận hoa hồng trực tiếp từ ông Bình. Hoạt động của bà Lan có vi phạm Luật KDBĐS 2023 không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Vi phạm, vì cá nhân không được hoạt động môi giới độc lập và không được nhận hoa hồng trực tiếp từ khách hàng."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-54",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 7,
+    "page": 10,
+    "prompt": "Doanh nghiệp BĐS M ký hợp đồng bán căn hộ hình thành trong tương lai cho khách hàng, trong hợp đồng có điều khoản \"Bên mua đồng ý không yêu cầu Bên bán cung cấp bảo lãnh ngân hàng\". Khách hàng ký vào hợp đồng này. Điều khoản này có hiệu lực pháp lý không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Có hiệu lực, vì Luật Kinh doanh BĐS 2023 cho phép người mua lựa chọn không yêu cầu bảo lãnh."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-55",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 8,
+    "page": 10,
+    "prompt": "Yêu cầu đối với dự án đầu tư bất động sản để kinh doanh là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dự án đầu tư BĐS để kinh doanh phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch đô thị, quy hoạch xây dựng nông thôn và phải theo kế hoạch thực hiện được cơ quan nhà nước có thẩm quyền phê duyệt."
+      },
+      {
+        "id": "B",
+        "text": "Trình tự, thủ tục đầu tư dự án BĐS để kinh doanh thực hiện theo quy định của pháp luật về đầu tư, đất đai, xây dựng, đô thị, nhà ở và quy định khác của pháp luật có liên quan."
+      },
+      {
+        "id": "C",
+        "text": "Dự án đầu tư bất động sản phải được thi công đúng tiến độ, bảo đảm chất lượng theo quy định của pháp luật về xây dựng."
+      },
+      {
+        "id": "D",
+        "text": "Tất cả các phương án trên."
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-56",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 9,
+    "page": 10,
+    "prompt": "Hợp đồng đặt cọc mua căn hộ hình thành trong tương lai giữa chủ đầu tư và khách hàng có ghi giá bán dự kiến là 3 tỷ đồng, tiền cọc là 150 triệu đồng (5%). Tuy nhiên, khi ký hợp đồng mua bán, chủ đầu tư tăng giá bán lên 3.2 tỷ đồng do biến động thị trường. Khách hàng có bắt buộc phải chấp nhận giá mới không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Không, thỏa thuận đặt cọc theo Luật KD BĐS 2023 yêu cầu ghi rõ giá bán/cho thuê mua. Việc tăng giá sau đó mà không có thỏa thuận trước là vi phạm thỏa thuận đặt cọc, khách hàng có quyền từ chối ký HĐMB và yêu cầu trả lại cọc, thậm chí phạt cọc."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-57",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 11,
+    "page": 10,
+    "prompt": "Doanh nghiệp kinh doanh dịch vụ sàn giao dịch bất động sản có quyền:",
+    "options": [
+      {
+        "id": "C",
+        "text": "Được thu phí dịch vụ của khách hàng có bất động sản được đưa lên sàn giao dịch bất động sản."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-58",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 12,
+    "page": 10,
+    "prompt": "Dự án Bất động sản, công trình xây dựng đủ điều kiện được giao dịch trên thị trường bất động sản khi:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có quy hoạch 1/500 được duyệt."
+      },
+      {
+        "id": "B",
+        "text": "Có chứng nhận đầu tư của cơ quan có thẩm quyền."
+      },
+      {
+        "id": "C",
+        "text": "Có quyết định cho phép thực hiện dự án của cấp có thẩm quyền, có giấy phép xây dựng công trình."
+      },
+      {
+        "id": "D",
+        "text": "Cả 3 phương án trên đều đúng."
+      }
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-59",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 15,
+    "page": 11,
+    "prompt": "Thỏa thuận đặt cọc để mua nhà ở hình thành trong tương lai theo Luật Kinh doanh Bấtđộng sản năm 2023 phải bao gồm nội dung gì về giá?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Phải ghi rõ giá bán hoặc giá cho thuê mua dự kiến tại thời điểm ký thỏa thuận đặt cọc."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-60",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 16,
+    "page": 11,
+    "prompt": "Khi áp dụng phương pháp định giá đất \"thặng dư\" theo Luật Đất đai năm 2024, yếu tố nào là cơ sở chính để xác định giá trị đất?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Lấy tổng doanh thu phát triển giả định của bất động sản trừ đi tổng chi phí phát triển ước tính."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-61",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 17,
+    "page": 11,
+    "prompt": "Tình huống: Anh L muốn đặt cọc 10% giá trị căn hộ hình thành trong tương lai của chủ đầu tư M vào tháng 6/2025 để giữ chỗ. Dự án đã có giấy phép xây dựng và đã thi công xong phần móng. Chủ đầu tư M có được nhận tiền đặt cọc 10% từ anh L không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Không được, vì mức đặt cọc tối đa chỉ là 5% giá bán/cho thuê mua."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-62",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 18,
+    "page": 11,
+    "prompt": "Theo Luật Kinh doanh bất động sản, tổ chức, cá nhân muốn kinh doanh BĐS phải có điều kiện gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thành lập doanh nghiệp/HTX, trừ trường hợp cá nhân kinh doanh quy mô nhỏ."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-63",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 19,
+    "page": 11,
+    "prompt": "Thông tin nào sau đây KHÔNG thuộc thông tin bắt buộc phải công khai đối với dự án BĐS đưa vào kinh doanh?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Danh sách các nhà thầu phụ và đơn vị giám sát thi công."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-64",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 20,
+    "page": 11,
+    "prompt": "Doanh nghiệp kinh doanh BĐS phải công khai thông tin dự án ở đâu?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hệ thống thông tin về nhà ở và thị trường BĐS & website của doanh nghiệp."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-65",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 23,
+    "page": 11,
+    "prompt": "Bà An bán 03 căn hộ và cho thuê 05 phòng trọ do mình xây dựng. Bà có cần thành lập doanh nghiệp không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Không cần thành lập doanh nghiệp vì đây là hoạt động kinh doanh BĐS quy mô nhỏ, không thường xuyên."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-66",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 24,
+    "page": 11,
+    "prompt": "Dự án nhà ở thương mại quy mô 15 ha cần vốn chủ sở hữu tối thiểu là bao nhiêu so với tổng mức đầu tư?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không thấp hơn 20% tổng mức đầu tư."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-67",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 25,
+    "page": 11,
+    "prompt": "Nhà ở, công trình xây dựng có sẵn đưa vào kinh doanh phải đáp ứng điều kiện nào về pháp lý?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Phải có Giấy chứng nhận quyền sở hữu và không đang bị kê biên để thi hành án."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-68",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 26,
+    "page": 11,
+    "prompt": "Điều kiện quan trọng nhất để nhà ở hình thành trong tương lai được đưa vào kinh doanh là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Có giấy tờ chứng minh đã được nghiệm thu hoàn thành xây dựng phần móng theo quy định của pháp luật về xây dựng tương ứng theo tiến độ dự án và có văn bản thông báo đủ điều kiện bán của cơ quan quản lý nhà ở cấp tỉnh."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-69",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 28,
+    "page": 12,
+    "prompt": "Trong thời hạn bao nhiêu ngày kể từ ngày bàn giao nhà ở cho bên mua thì Chủ đầu tư phải nộp hồ sơ đề nghị cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên mua.",
+    "options": [
+      {
+        "id": "C",
+        "text": "50 ngày"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-70",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 29,
+    "page": 12,
+    "prompt": "Điều kiện cốt lõi đối với bên nhận chuyển nhượng toàn bộ hoặc một phần dự án BĐS là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Cam kết tiếp tục triển khai dự án theo đúng nội dung đã được phê duyệt."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-71",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 30,
+    "page": 12,
+    "prompt": "Cơ quan nào có thẩm quyền cho phép chuyển nhượng dự án do UBND cấp tỉnh quyết định chủ trương đầu tư?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Ủy ban nhân dân cấp tỉnh."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-72",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 31,
+    "page": 12,
+    "prompt": "Trường hợp nào sau đây chủ đầu tư bị nghiêm cấm chuyển nhượng dự án?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Có quyết định thu hồi đất hoặc chấm dứt hoạt động của dự án từ cơ quan có thẩm quyền."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-73",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 33,
+    "page": 12,
+    "prompt": "Chủ đầu tư dự án nhà ở thương mại chỉ được phân lô, bán nền đối với phần diện tích nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Đối với phần diện tích đất Không thuộc khu vực phường, thành phố của đô thị loại đặc biệt, loại I, loại II và loại III."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-74",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 34,
+    "page": 12,
+    "prompt": "Theo quy định của Luật kinh doanh bất động sản 2023, Hợp đồng kinh doanh bất động sản mà ít nhất một bên tham gia giao dịch là doanh nghiệp kinh doanh bất động sản có bắt buộc công chứng hoặc chứng thực không ?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Được công chứng hoặc chứng thực theo yêu cầu của các bên."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-75",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 40,
+    "page": 12,
+    "prompt": "Định nghĩa \"Nhà chung cư\" theo Điều 3 Luật Nhà ở 2023 bao gồm đặc điểm nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Có từ 02 tầng trở lên, có nhiều căn hộ, có lối đi, cầu thang chung, có phần sở hữu riêng, phần sở hữu chung."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-76",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 41,
+    "page": 12,
+    "prompt": "Điều kiện đối với nhà ở có sẵn đưa vào kinh doanh theo Luật Kinh doanh Bất động sản 2023 là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Phải có Giấy chứng nhận; không tranh chấp; không bị kê biên; tuân thủ giấy phép xây dựng và đảm bảo chất lượng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-77",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 42,
+    "page": 12,
+    "prompt": "Việc công nhận quyền sở hữu nhà ở được Nhà nước thực hiện thông qua hình thức nào theo Luật Nhà ở 2023?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Thông qua việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (trừ nhà ở thuộc tài sản công)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-78",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 44,
+    "page": 12,
+    "prompt": "Cá nhân nước ngoài được sở hữu tối đa bao nhiêu căn nhà ở riêng lẻ trong một dự án?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Không quá 250 căn nhà ở riêng lẻ."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-79",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 46,
+    "page": 13,
+    "prompt": "Thời gian tối thiểu người mua nhà ở xã hội (NƠXH) được phép bán lại là bao lâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tối thiểu 05 năm."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-80",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 49,
+    "page": 13,
+    "prompt": "Luật Nhà ở 2023 (Luật số 27/2023/QH15) định nghĩa \"Nhà ở\" như thế nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Công trình xây dựng với mục đích để ở và phục vụ nhu cầu sinh hoạt của gia đình, cá nhân."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-81",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 51,
+    "page": 13,
+    "prompt": "Ông An (công dân Việt Nam) mua một căn hộ chung cư thương mại từ chủ đầu tư B. Ông An đã thanh toán 95% giá trị hợp đồng và nhận bàn giao nhà. Tuy nhiên, Giấy chứng nhận chưa được cấp. Theo quy định, quyền sở hữu của ông An đối với căn hộ này được xác lập khi nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Khi ông An thanh toán đủ tiền (theo thỏa thuận hoặc 95% trong trường hợp này) và nhận bàn giao nhà ở (trừ khi có thỏa thuận khác)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-82",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 52,
+    "page": 13,
+    "prompt": "Ông Tuấn mua một căn hộ tại dự án A. Khi ký hợp đồng, chủ đầu tư yêu cầu ông đóng 2% phí bảo trì tính trên giá bán đã bao gồm VAT. Yêu cầu này có đúng quy định không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không đúng, phí bảo trì 2% phải được tính trên giá bán căn hộ trước thuế VAT."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-83",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 54,
+    "page": 13,
+    "prompt": "Trường hợp thửa đất là tài sản chung của vợ và chồng, nguyên tắc ghi tên trên GCN được quy định như thế nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-84",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 55,
+    "page": 13,
+    "prompt": "Theo Luật Đất đai 2024, tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất được thực hiện quyền nào sau đây?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất thuộc sở hữu của mình."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-85",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 57,
+    "page": 13,
+    "prompt": "Một doanh nghiệp thuê đất trả tiền hàng năm muốn vay vốn ngân hàng, doanh nghiệp có quyền thế chấp gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Thế chấp tài sản thuộc sở hữu gắn liền với đất tại tổ chức tín dụng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-86",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 59,
+    "page": 13,
+    "prompt": "Một hộ gia đình sử dụng đất ổn định từ trước 01/7/2014 không có giấy tờ thì có được cấp Giấy chứng nhận không?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có, nếu sử dụng ổn định và không tranh chấp."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-87",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 60,
+    "page": 13,
+    "prompt": "Tổ chức được Nhà nước giao đất có thu tiền hoặc thuê đất trả tiền một lần có được bồi thường về đất khi bị thu hồi không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Được bồi thường về đất"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-88",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 61,
+    "page": 14,
+    "prompt": "Doanh nghiệp muốn góp vốn bằng QSDĐ thuê trả tiền hàng năm vào liên doanh thì có được không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không được phép góp vốn bằng QSDĐ, chỉ được góp vốn bằng tài sản gắn liền với đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-89",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 63,
+    "page": 14,
+    "prompt": "Hợp đồng nào sau đây bắt buộc phải được công chứng hoặc chứng thực theo Luật Đất đai năm 2024?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hợp đồng thế chấp quyền sử dụng đất."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-90",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 64,
+    "page": 14,
+    "prompt": "Năm 2026, bà Mai được Nhà nước công nhận quyền sử dụng 100m2 đất ở do khai hoang từ năm 1990 (trước 15/10/1993), không có giấy tờ, phù hợp quy hoạch. Bà Mai có phải nộp tiền sử dụng đất không?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Không, trường hợp sử dụng đất ổn định trước 15/10/1993, phù hợp quy hoạch không phải nộp tiền sử dụng đất đối với diện tích trong hạn mức công nhận đất ở."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-91",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 66,
+    "page": 14,
+    "prompt": "Hình thức bắt buộc đối với hợp đồng mua bán bất động sản theo quy định chung của Luật đất đai năm 2024 là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Phải lập thành văn bản, có công chứng hoặc chứng thực (trừ trường hợp luật có quy định khác)."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-92",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 68,
+    "page": 14,
+    "prompt": "Trường hợp nào sau đây KHÔNG bắt buộc phải công chứng, chứng thực theo Luật Đất đai năm 2024?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Hợp đồng chuyển nhượng quyền sử dụng đất mà một bên là tổ chức kinh doanh bất động sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-93",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 69,
+    "page": 14,
+    "prompt": "Trình tự, thủ tục đầu tư xây dựng dự án bất động sản phải thực hiện theo quy định của các pháp luật nào?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Pháp luật về quy hoạch, đầu tư, đất đai, xây dựng, nhà ở và pháp luật có liên quan."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-94",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 70,
+    "page": 14,
+    "prompt": "Dự án đầu tư xây dựng khu đô thị được xác định là loại hình nào theo Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Dự án bất động sản."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-95",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 71,
+    "page": 14,
+    "prompt": "Hồ sơ hoàn thành công trình xây dựng (hồ sơ hoàn công) do ai lập và lưu trữ?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Chủ đầu tư."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-96",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 72,
+    "page": 14,
+    "prompt": "Vai trò của quy hoạch chi tiết tỷ lệ 1/500 trong quy trình thực hiện dự án khu đô thị là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Là căn cứ pháp lý trực tiếp để lập dự án đầu tư xây dựng, cấp Giấy phép xây dựng và giao đất, cho thuê đất chi tiết."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-97",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 73,
+    "page": 14,
+    "prompt": "Trình tự thực hiện một dự án đầu tư BĐS thông thường bao gồm các giai đoạn nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chuẩn bị đầu tư -> Thực hiện dự án -> Kết thúc đầu tư và khai thác vận hành."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-98",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 74,
+    "page": 14,
+    "prompt": "Vốn chủ sở hữu tối thiểu của nhà đầu tư cho dự án có quy mô sử dụng đất dưới 20 ha là?",
+    "options": [
+      {
+        "id": "B",
+        "text": "20% tổng vốn đầu tư."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-99",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 75,
+    "page": 15,
+    "prompt": "Một tư nhân dự định xây dựng một khu du lịch sinh thái. Sau khi dự án đã được phê duyệt, nhà đầu tư này đã tiến hành xin giao đất, xin phép xây dựng và khai thác tài nguyên. Bước kế tiếp ông ta nên làm gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Đền bù giải phóng mặt bằng, thực hiện kế hoạch tái định cư và phục hồi, chuẩn bị mặt bằng xây dựng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-100",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 77,
+    "page": 15,
+    "prompt": "Theo Luật Đầu tư 2020, thẩm quyền chấp thuận chủ trương đầu tư dự án nhà ở/khu đô thị có quy mô sử dụng đất trên 300 ha thuộc về ai?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Thủ tướng Chính phủ."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-101",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 78,
+    "page": 15,
+    "prompt": "Theo Bộ luật Dân sự năm 2015, loại tài sản nào sau đây được xem là bất động sản?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; Tài sản khác do pháp luật quy định."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-102",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 79,
+    "page": 15,
+    "prompt": "Bên thuê bất động sản có được phép cho thuê lại không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Được phép nếu có sự đồng ý bằng văn bản của bên cho thuê."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-103",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 80,
+    "page": 15,
+    "prompt": "Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm nào?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-104",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 81,
+    "page": 15,
+    "prompt": "Hợp đồng nào sau đây là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hợp đồng phụ."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-105",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 82,
+    "page": 15,
+    "prompt": "Trụ sở của pháp nhân được xác định là nơi nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Nơi đặt cơ quan điều hành và được ghi trong điều lệ hoặc quyết định thành lập."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-106",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 85,
+    "page": 15,
+    "prompt": "Ai KHÔNG thuộc diện người thừa kế không phụ thuộc vào nội dung di chúc theo Điều 644 BLDS 2015?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Anh, chị, em ruột của người để lại di sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-107",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 86,
+    "page": 15,
+    "prompt": "Doanh nghiệp BĐS X bán căn hộ cho khách hàng Y và thu tiền đợt đầu là 30%. Sau đó, dự án bị chậm tiến độ nghiêm trọng so với cam kết trong hợp đồng. Khách hàng Y có quyền gì trong trường hợp này?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Có quyền tạm dừng thanh toán các đợt tiếp theo và yêu cầu bồi thường thiệt hại (nếu có) hoặc thỏa thuận lại tiến độ."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-108",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 87,
+    "page": 15,
+    "prompt": "Hợp đồng tặng cho bất động sản có hiệu lực kể từ thời điểm nào nếu bất động sản đó phải đăng ký quyền sở hữu?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Kể từ thời điểm đăng ký quyền sở hữu."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-109",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 88,
+    "page": 16,
+    "prompt": "Ông N muốn bán căn nhà đứng tên mình. Ông N đã ly hôn bà T cách đây 5 năm và căn nhà này được tạo lập trong thời kỳ hôn nhân nhưng Tòa án chưa phân chia khi ly hôn. Ông N có thể tự mình bán căn nhà này không?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Không, vì đây vẫn được xem là tài sản chung chưa chia sau ly hôn, việc bán cần có sự đồng ý của bà T hoặc quyết định của Tòa án về phân chia tài sản."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-110",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 90,
+    "page": 16,
+    "prompt": "Trường hợp nào sau đây vẫn bắt buộc phải công chứng hoặc chứng thực theo quy định của Luật Đất đai 2024?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Văn bản về thừa kế Quyền sử dụng đất giữa các cá nhân."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-111",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 91,
+    "page": 16,
+    "prompt": "Thời hạn công chứng hợp đồng, giao dịch thông thường là bao nhiêu ngày kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không quá 02 ngày làm việc."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-112",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 92,
+    "page": 16,
+    "prompt": "Điểm mới quan trọng nhất của Luật Công chứng năm 2024 là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Quy định về công chứng điện tử."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-113",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 94,
+    "page": 16,
+    "prompt": "Thẩm quyền chứng thực bản sao từ bản chính thuộc về cơ quan nào?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Ủy ban nhân dân cấp xã."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-114",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 97,
+    "page": 16,
+    "prompt": "Luật Kinh doanh BĐS 2023 ghi nhận chủ thể nào, bên cạnh doanh nghiệp, được phép kinh doanh BĐS?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hợp tác xã, liên hiệp hợp tác xã."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-115",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 98,
+    "page": 16,
+    "prompt": "Hoạt động kinh doanh bất động sản tại Việt Nam chịu sự điều chỉnh của những luật cốt lõi nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Luật Kinh doanh bất động sản, Luật Doanh nghiệp, Luật Đầu tư, Luật Đất đai, Luật Nhà ở."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-116",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 99,
+    "page": 16,
+    "prompt": "Doanh nghiệp kinh doanh BĐS có bắt buộc phải đăng ký ngành nghề kinh doanh BĐS là ngành chính không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không bắt buộc, miễn là đáp ứng đủ điều kiện kinh doanh theo pháp luật."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-117",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 100,
+    "page": 16,
+    "prompt": "Thời hạn cấp Giấy chứng nhận đăng ký doanh nghiệp kể từ ngày nhận đủ hồ sơ hợp lệ là bao lâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "03 ngày làm việc."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-118",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 101,
+    "page": 17,
+    "prompt": "Trong giao dịch mua bán nhà đất giữa vợ và chồng (quan hệ hôn nhân), loại thuế nào được miễn theo quy định?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thuế thu nhập cá nhân"
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-119",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 102,
+    "page": 17,
+    "prompt": "Trong thủ tục tách thửa đất, nếu bản đồ giải thửa do đơn vị đo đạc không chính xác, hậu quả có thể là:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quá trình tách thửa bị chậm và có thể phải điều chỉnh lại bản đồ"
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-120",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 103,
+    "page": 17,
+    "prompt": "Trong một giao dịch mua bán bất động sản, hai bên sử dụng “vi bằng” thay cho hợp đồng công chứng. Hệ quả của việc này là:",
+    "options": [
+      {
+        "id": "B",
+        "text": "Người mua có thể không được đảm bảo quyền sử dụng tài sản do không có căn cứ pháp lý cao"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-121",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 104,
+    "page": 17,
+    "prompt": "Anh Nguyễn là người bán bất động sản, đây là bất động sản duy nhất anh sở hữu và đã giữ trên 183 ngày. Khi thực hiện giao dịch chuyển nhượng, anh Nguyễn có phải đóng Thuế Thu Nhập Cá Nhân không?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Không, được miễn theo quy định"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-122",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 106,
+    "page": 17,
+    "prompt": "Doanh thu tính thuế TNDN đối với hoạt động cho thuê BĐS là số tiền nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Số tiền thuê trả từng kỳ theo hợp đồng thuê."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-123",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 109,
+    "page": 17,
+    "prompt": "Theo Luật phòng chống rửa tiền 2022, \"Rửa tiền\" được định nghĩa là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tài sản do phạm tội mà có."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-124",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 112,
+    "page": 17,
+    "prompt": "Ai chịu trách nhiệm chính trong việc triển khai các biện pháp phòng chống rửa tiền tại một doanh nghiệp kinh doanh bất động sản?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Doanh nghiệp bất động sản đó (Đối tượng báo cáo)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-125",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 114,
+    "page": 17,
+    "prompt": "Mức giá trị giao dịch phải báo cáo (giao dịch lớn) đối với kinh doanh BĐS hiện nay là bao nhiêu?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Từ 400 triệu đồng trở lên."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-126",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 115,
+    "page": 17,
+    "prompt": "Sau khi phát hiện giao dịch đáng ngờ, thời hạn tối đa để đối tượng báo cáo gửi báo cáo cho Cơ quan PCRT là bao lâu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "01 ngày làm việc kể từ ngày phát hiện giao dịch đáng ngờ."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-127",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 122,
+    "page": 17,
+    "prompt": "Trong trường hợp nào sau đây, người vi phạm trong lĩnh vực bất động sản sẽ không bị xử phạt vi phạm hành chính?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Khi hành vi vi phạm đã hết thời hiệu xử phạt"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-128",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 125,
+    "page": 18,
+    "prompt": "Hành vi mượn chứng chỉ hành nghề môi giới BĐS để hành nghề bị phạt tiền bao nhiêu đối với tổ chức?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Từ 40.000.000 đến 60.000.000 đồng."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-129",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 128,
+    "page": 18,
+    "prompt": "Đối với hành vi không đủ số người có chứng chỉ môi giới bất động sản theo quy định thì doanh nghiệp kinh doanh dịch vụ môi giới bất động sản sẽ bị phạt tiền?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Từ 60.000.000 đồng đến 80.000.000 đồng"
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-130",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 129,
+    "page": 18,
+    "prompt": "Một cá nhân kinh doanh dịch vụ môi giới bất động sản độc lập cho người khác mượn chứng chỉ hành nghề của mình. Người này sẽ bị xử phạt như thế nào?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Phạt tiền từ 40.000.000 - 60.000.000 đồng và tước quyền sử dụng chứng chỉ hành nghề từ 03 đến 06 tháng."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-131",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 133,
+    "page": 18,
+    "prompt": "Yếu tố kinh tế nào sau đây có tác động lớn nhất đến tổng cầu và khả năng chi trả của người mua trên thị trường bất động sản?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Tốc độ tăng trưởng GDP, lạm phát và thu nhập bình quân đầu người."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-132",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 134,
+    "page": 18,
+    "prompt": "Vai trò của Chính phủ (Nhà nước) đối với thị trường bất động sản được thể hiện rõ nhất qua hoạt động nào sau đây?",
+    "options": [
+      {
+        "id": "D",
+        "text": "Kiểm soát quy hoạch, kế hoạch sử dụng đất, điều tiết cung cầu thông qua các công cụ tài chính, pháp luật."
+      }
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-133",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 135,
+    "page": 18,
+    "prompt": "Trong chu kỳ thị trường bất động sản, giai đoạn nào thường có đặc điểm là nguồn cung khan hiếm, giá tăng mạnh và giao dịch sôi động?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Giai đoạn tăng trưởng (Nóng)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-134",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 137,
+    "page": 18,
+    "prompt": "Phân đoạn thị trường là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Là quá trình phân chia thị trường thành những đoạn nhỏ hơn mang tính đồng nhất cao theo các tiêu chí cụ thể. VÀ HOẠT ĐỘNG TƯ VẤN VỀ GIÁ TẠI VIỆT NAM"
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-135",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 138,
+    "page": 18,
+    "prompt": "Đối tượng nào sau đây KHÔNG được hành nghề thẩm định giá theo quy định tại Khoản 2 Điều 45 Luật Giá 2023?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Người đang trong thời gian bị khởi tố, truy tố, xét xử."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-136",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 140,
+    "page": 18,
+    "prompt": "Mối quan hệ giữa Luật Giá và các Chuẩn mực thẩm định giá Việt Nam là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Luật Giá quy định các nguyên tắc chung và quản lý nhà nước, Chuẩn mực TĐG VN là các hướng dẫn kỹ thuật, nghiệp vụ chi tiết để thực hiện Luật Giá."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-137",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 141,
+    "page": 19,
+    "prompt": "Tình huống: Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân để xây dựng khu công nghiệp. Việc xác định giá đất để tính tiền bồi thường sẽ áp dụng Điều nào theo Luật Đất đai 2024?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Áp dụng Giá đất cụ thể được xác định tại thời điểm thu hồi đất."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-138",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 143,
+    "page": 19,
+    "prompt": "Nguyên tắc thẩm định giá nào là nền tảng cho Cách tiếp cận So sánh và Cách tiếp cận Chi phí?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Nguyên tắc Thay thế."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-139",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 144,
+    "page": 19,
+    "prompt": "Bước đầu tiên và quan trọng nhất trong quy trình xác định giá bất động sản là gì?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Xác định vấn đề thẩm định giá (mục đích, đối tượng, thời điểm, cơ sở giá trị)."
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-140",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 145,
+    "page": 19,
+    "prompt": "Công thức cơ bản tính giá trị BĐS theo Cách tiếp cận Chi phí là gì?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Giá trị = Chi phí tạo mới/thay thế tài sản - Hao mòn tích lũy + Giá trị đất đai."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-141",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 146,
+    "page": 19,
+    "prompt": "Sự khác biệt cốt lõi giữa \"Thẩm định giá\" và \"Tư vấn giá\" bất động sản là gì?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thẩm định giá đưa ra một con số ước tính duy nhất; Tư vấn giá cung cấp phân tích, lời khuyên và các kịch bản giá trị."
+      }
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-142",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 148,
+    "page": 19,
+    "prompt": "Một khách hàng nhờ thẩm định giá căn nhà riêng lẻ để mua và sử dụng lâu dài. Trong trường hợp này, thẩm định viên nên ưu tiên cách tiếp cận nào để đưa ra kết quả phù hợp nhất?",
+    "options": [
+      {
+        "id": "C",
+        "text": "Cách tiếp cận so sánh"
+      }
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cs-1-143",
+    "set": "cs-1",
+    "subject": "Cơ sở",
+    "number": 149,
+    "page": 19,
+    "prompt": "Khi một môi giới cùng một thẩm định viên thẩm định giá trị một căn nhà ở Block A, Khu đô thị X, họ nên chọn cách tiếp nào dưới đây để đưa ra mô hình thẩm định giá BĐS phù hợp. Biết rằng, khách hàng dự định mua căn nhà này để cùng gia đình sinh sống lâu dài?",
+    "options": [
+      {
+        "id": "B",
+        "text": "Cách tiếp cận so sánh."
+      }
+    ],
+    "answer": "B",
+    "explanation": ""
+  }
+]
